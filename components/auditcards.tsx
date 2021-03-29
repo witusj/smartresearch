@@ -41,7 +41,7 @@ export const AuditCards = () => {
                     learninggoals={['aan stakeholders de kwaliteit van uitvoering van het onderzoeksproces kan aantonen', 'ik stakeholders een duidelijk antwoord teruggeef op hun vragen', 'ik andere onderzoekers bruikbare input bied voor vervolgonderzoek']}
                     firstquestiontxt="Waarom heb je voor een specifiek format gekozen voor je eindproduct? Mogelijke formats: "
                     firstquestionansw={['Een statisch document, bv. Word of pdf', 'Een levend document, bv. Website of video', 'Een prototype', '.....']}
-                    secondquestiontxt="WWelke systemen heb je geïmplementeerd t.b.v. de reproduceerbaarheid van je onderzoek?"
+                    secondquestiontxt="Welke systemen heb je geïmplementeerd t.b.v. de reproduceerbaarheid van je onderzoek?"
                     secondquestionansw={['Notebooks', 'Github e.d.', 'Zotero e.d.', 'Anders']}
                     thirdquestiontxt="Welke criteria heb je gehanteerd voor een optimale UX?"
                     thirdquestionansw={['Leesbaar', 'Snel doorzoekbaar', 'Informatief', 'Aantrekkelijk vormgegeven', 'Anders']}

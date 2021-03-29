@@ -94,7 +94,38 @@ function WorkFlowTable() {
   )
 }
 
-
+function Contributors() {
+  return (
+    <div>
+      <h3>Bronnen</h3>
+      <ul>
+        <li>
+          <div className="csl-entry">Davies, K. S. (2011). Formulating the Evidence Based Practice Question: A Review of the Frameworks. <i>Evidence Based Library and Information Practice</i>, <i>6</i>(2), 75–80. <a href="https://doi.org/10.18438/B8WS5N">https://doi.org/10.18438/B8WS5N</a>
+          </div>
+        </li>
+        <li>
+          <div className="csl-entry"><i>Innovations in Scholarly Communication</i>. (n.d.). Innovations in Scholarly Communication. Retrieved March 29, 2021, from <a href="https://101innovations.wordpress.com/">https://101innovations.wordpress.com/</a>
+          </div>
+        </li>
+      </ul>
+        <h3>Contributors</h3>
+          <ul>
+              <li>
+                  <a href="https://www.linkedin.com/in/witektenhove/" target="_blank">Witek ten Hove</a> - Senior Lecturer Data Analytics &amp; Machine Learning at HAN University of AS
+              </li>
+              <li>
+                  <a href="https://www.linkedin.com/in/erik-j-vries-de-6861b68/" target="_blank">Erik de Vries</a> - Lector Innovation in the Public Sector at HAN University of AS
+              </li>
+              <li><a href="https://www.linkedin.com/in/arjen-van-weert-81a5b14/" target="_blank">Arjen van Weert</a> - Senior Researcher at HAN University of AS</li>
+          </ul>
+        <h3>Credits</h3>
+        <div>Icons made by
+              <a href="https://www.flaticon.com/authors/eucalyp" title="Eucalyp">Eucalyp</a>
+              from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>
+        </div>
+    </div>
+  )
+}
 
 export default function Home() {
   return (
@@ -119,6 +150,7 @@ export default function Home() {
           content="Uiteindelijk kunnen aan iedere fase criteria worden gekoppeld, waarmee de kwaliteit van het onderzoeksproces kan worden bepaald. Omdat het een workflow betreft, is een goede eindkwaliteit per fase essentieel voor het succes van de volgende fase ('rubish in is rubish out'). De kwaliteit van de onderzoeker kan worden getest door de kwaliteit van de door hem gegenereerde uitkomsten per fase te meten. De meting kan plaats vinden door voor iedere fase bewijsmateriaal te verzamelen. In het onderstaande overzicht zijn daarom per fase een aantal auditvragen geformuleerd."
         />
         <AuditCards />
+        <Contributors />
       </div>
     </div>
     

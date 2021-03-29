@@ -1,0 +1,171 @@
+[
+    {
+        "id":1,
+        "name": "Improve Your Research Workflow Using Text Network Visualization" ,
+        "desc": "You can visualize all the research notes and quotes you have in a graph, so you can see how it all connects, what are the main topics inside, how they relate to each other ....",
+        "src" :"https://www.youtube.com/embed/bMmTRBZpjWw",
+        "phase": "discovery"
+    },
+    {
+        "id":2,
+        "name": "How to use Zotero in your Research Workflow" ,
+        "desc": "This video takes you through the three stage research workflow of Collecting, Organize and Citing your research using the free apps from Zotero.",
+        "src" :"https://www.youtube.com/embed/R8M3twwkvYY",
+        "phase": "writing"
+    },
+    {
+        "id":3,
+        "name": "Reproducible Data Analysis in Jupyter" ,
+        "desc": "Jupyter notebooks provide a useful environment for interactive exploration of data. This series of videos presents a case study in how to approach reproducible data analysis within the Jupyter notebook.",
+        "src" :"https://www.youtube.com/embed/_ZEWDGpM-vM",
+        "phase": "analysis"
+    },
+    {
+        "id":4,
+        "name": "Searching Google Scholar" ,
+        "desc": "University students need to ensure that they are relying on credible, academic sources for their research. In recent years, Google has created its own academic database that may be more familiar to students used to using this search engine. When used correctly, Google Scholar can be a great research tool. To avoid information overload, however, watch this tutorial and follow the tips provided.",
+        "src" :"https://www.youtube.com/embed/kTKPzBjYvdw",
+        "phase": "discovery"
+    },
+    {
+        "id":5,
+        "name": "Creative User Research Methods for Startups" ,
+        "desc": "The UX Research tool kit expands beyond traditional methods like usability tests and focus groups; come hear about creative UX research methods that can get insight in unexpected, quick ways to inform product decisions.",
+        "src" :"https://www.youtube.com/embed/ZPFVqp4xgx8",
+        "phase": "analysis"
+    },
+    {
+        "id":6,
+        "name": "Research Culture is Broken; Open Science can Fix It" ,
+        "desc": "After the increasingly toxic environment of modern research culture forced her to nearly abandon her career, astrophysicist Dr Rachael Ainsworth began to question why the subject she loved had become so inhospitable. Identifying some of the pressures placed on her peers that encouraged aggressive competitiveness, unfair benchmarking and shoddy research practices also helped her identify a compelling potential solution.",
+        "src" :"https://www.youtube.com/embed/c-bemNZ-IqA",
+        "phase": "outreach"
+    },
+    {
+        "id":7,
+        "name": "The Turing Way: A how to guide for reproducible research" ,
+        "desc": "Kirstie Whitaker will present The Turing Way: a lightly opinionated guide to reproducible data science. Openly developed and community-led, this online book curates resources, case studies and checklists to make reproducible research 'Too easy not to do'.",
+        "src" :"https://www.youtube.com/embed/IG3PcZ6EhiU",
+        "phase": "assessment"
+    },
+    {
+        "id":8,
+        "name": "Lean vs Agile vs Design Thinking" ,
+        "desc": "As companies evolve to adopt, integrate, and leverage software as the defining element of their success in the 21st century, a rash of processes and methodologies are vying for their product teams' attention. In the worst of cases, each discipline on these teams -- product management, design, and software engineering -- learns a different model. This short, tactical talk reconciles the perceived differences in Lean Startup, Design Thinking, and Agile software development by focusing not on rituals and practices but on the values that underpin all three methods.",
+        "src" :"https://www.youtube.com/embed/_4VPfmtwRac",
+        "phase": "analysis"
+    },
+    {
+        "id":9,
+        "name": "Beyond Design Thinking" ,
+        "desc": "Design thinking seems to have taken the world by storm as hundreds of companies puzzle over how to integrate it into their organizations. Some claim outstanding results, others less so. In this session, we will dig under the hype, identify the core elements of what design thinking represents, and examine the path design thinking might take to be meaningful and useful in the future.",
+        "src" :"https://www.youtube.com/embed/Dn0MmivMx_Q",
+        "phase": "analysis"
+    },
+    {
+        "id":10,
+        "name": "Getting started in R and RStudio" ,
+        "desc": "Tutorial on the relationship between R and RStudio and how to install both pieces of software. Produced for use in my own teaching. Best viewed as part of the interactive tutorial at http://milton-the-cat.rocks/learnr/r/...",
+        "src" :"https://www.youtube.com/embed/ZvPFKfNHBNQ",
+        "phase": "analysis"
+    },
+    {
+        "id":11,
+        "name": "HR @Tableau | Improving our commute with employee survey data" ,
+        "desc": "Transportation benefits are one way for companies to differentiate themselves in recruiting great talent. Using our own HR survey data, we were able to derive valuable insights into employee commute behavior and design a more effective transportation program.",
+        "src" :"https://www.youtube.com/embed/mVdiV-lwxVw",
+        "phase": "analysis"
+    },
+    {
+        "id":12,
+        "name": "How to Use Cornell Notes" ,
+        "desc": "Learn how students use the Cornell Note Taking System.",
+        "src" :"https://www.youtube.com/embed/nX-xshA_0m8",
+        "phase": "discovery"
+    },
+    {
+        "id":13,
+        "name": "Establish The Terms of Engagement During First Client Meeting" ,
+        "desc": "What questions should I ask during the first client meeting? How you respond, during the first critical meeting with a design client, will determine if you will be in a position of power, or struggling to regain authority. Chris & Jose give you a step-by-step on how to handle your first meeting with a client.",
+        "src" :"https://www.youtube.com/embed/900fXN3dPUM",
+        "phase": "discovery"
+    },
+    {
+        "id":14,
+        "name": "Systematic Reviews: An Introduction" ,
+        "desc": "This introduction to systematic reviews includes an explanation of what systematic reviews are, their history, the process involved in completing a systematic review, and an overview of how they differ from other common types of reviews. The video is not meant to be an in-depth examination of systematic reviews, but an overview to familiarize yourself with the publication type.",
+        "src" :"https://www.youtube.com/embed/sNzE4vr4jYM",
+        "phase": "analysis"
+    },
+    {
+        "id":15,
+        "name": "Get started with Google Colaboratory" ,
+        "desc": "Want to get started with Google Colaboratory? In this episode of Coding TensorFlow, Software Engineer, Jake VanderPlas breaks down exactly what you need to get started with Colab. Colaboratory is a free Jupyter notebook environment that requires no setup, and runs entirely (writing, running, & sharing code) on the Cloud. Watch to learn more, and subscribe to get notified for the next Colab series episode, that focuses on the use of TensorFlow in Colab!",
+        "src" :"https://www.youtube.com/embed/inN8seMm7UI",
+        "phase": "writing"
+    },
+    {
+        "id":16,
+        "name": "Improving Cornell Notes With Sketchnoting Techniques" ,
+        "desc": "Make Cornell notes a bit more effective and a bit more visual by adding in some sketchnoting techniques.",
+        "src" :"https://www.youtube.com/embed/pZgMpjjgCRA",
+        "phase": "discovery"
+    },
+    {
+        "id":17,
+        "name": "Comparing EndNote, Mendeley, and Zotero" ,
+        "desc": "Choosing citation management software and something to organize research materials requires a bit of thought. This video will provide brief overviews of the strengths and weaknesses of three popular options: EndNote, Mendeley, and Zotero.",
+        "src" :"https://www.youtube.com/embed/KCqKW51vtKQ",
+        "phase": "discovery"
+    },
+    {
+        "id":18,
+        "name": "Top 10 Logical Fallacies" ,
+        "desc": "When creating a logical argument, there are many different aspects that have to come together to ensure that your argument is sound and does not contain any flaws. One of these aspects is avoiding what we call “logical fallacies.” A logical fallacy is an error of reasoning that will weaken your argument and, in most cases, undermine it completely.",
+        "src" :"https://www.youtube.com/embed/IawIjqOJBU8",
+        "phase": "writing"
+    },
+    {
+        "id":19,
+        "name": "Gitbook: Great Free-ish Tool to Build Your Docs Page" ,
+        "desc": "Build a good-looking and searchable documentation for your projects, or private docs for your dev team.",
+        "src" :"https://www.youtube.com/embed/0oESfogMnTY",
+        "phase": "writing"
+    },
+    {
+        "id":20,
+        "name": "Online Survey Methodology Guidelines" ,
+        "desc": "Practical advise for conducting survey research online. Topics include: Solicitation strategies, design issues unique to psychology, and a comparison of platforms (e.g., SurveyMonkey vs. psychsurveys.org).",
+        "src" :"https://www.youtube.com/embed/psiqwumrvPc",
+        "phase": "analysis"
+    },
+    {
+        "id":21,
+        "name": "Jamovi for Data Analysis" ,
+        "desc": "Open-source application that makes data analysis easy and intuitive.",
+        "src" :"https://www.youtube.com/embed/mZomeS0tLxY",
+        "phase": "analysis"
+    },
+    {
+        "id":22,
+        "name": "How to Use JASP for Statistics" ,
+        "desc": "Learn how to use Jasp for statistical analysis. This video will show you how JASP works, demonstrate its similarity with other statistics software, and get you familiar with how “progressive disclosure” allows you to focus on the analysis as you work",
+        "src" :"https://www.youtube.com/embed/OfT7JlS0is4",
+        "phase": "analysis"
+    },
+    {
+        "id":23,
+        "name": "Event Storming" ,
+        "desc": "Event Storming Event Storming is a highly visual, collaborative domain discovery and modelling method. It's a great way to get started sharing domain knowledge with different stakeholders.",
+        "src" :"https://www.youtube.com/embed/mLXQIYEwK24",
+        "phase": "discovery"
+    },
+    {
+        "id":24,
+        "name": "The Rise Of Open-Source Software" ,
+        "desc": "Open-source software powers nearly all the world’s major companies. This software is freely available, and is developed collaboratively, maintained by a broad network that includes everyone from unpaid volunteers to employees at competing tech companies. Here’s how giving away software for free has proven to be a viable business model.",
+        "src" :"https://www.youtube.com/embed/SpeDK1TPbew",
+        "phase": "outreach"
+    }
+
+]

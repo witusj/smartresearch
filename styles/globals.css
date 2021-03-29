@@ -7,10 +7,54 @@ body {
 }
 
 a {
-  color: inherit;
+  color: royalblue;
   text-decoration: none;
 }
 
 * {
   box-sizing: border-box;
+}
+
+.page-container {
+  display: flex;
+  height: 100vh;
+  flex-direction: column;
+  margin: 5%;
+}
+
+.col-md-4 {
+  position: relative;
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+  display: flex;
+}
+
+.card-footer {
+  width: 100%;
+}
+
+.discovery {
+  background-color: tomato;
+}
+
+.writing {
+  background-color: deepskyblue;
+}
+
+.analysis {
+  background-color: rgb(255, 205, 4);
+}
+
+.assessment {
+  background-color: rgb(255, 111, 0);
+}
+
+.outreach {
+  background-color: rgb(4, 187, 32);
+}
+
+.card {
+  align-items: flex-end;
+  display: flex;
 }

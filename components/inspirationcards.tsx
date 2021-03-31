@@ -5,7 +5,7 @@ import styles from '../styles/inspirationcards.module.scss'
 
 export const InspirationCards = () => {
     
-    const phases = ['all','discovery', 'analysis', 'writing', 'publication', 'outreach', 'assessment']
+    const phases = ['discovery', 'analysis', 'writing', 'publication', 'outreach', 'assessment', 'all']
     const [selectedPhase, setSelectedPhase] = useState('all')
 
     const YouTube = (props) => {
@@ -51,7 +51,7 @@ export const InspirationCards = () => {
         <div className={styles.main}>
             <Row>
                 <Col>
-                    <ButtonGroup className="mb-5">
+                    <ButtonGroup className="mb-5 flex-wrap">
                         {phases.map(
                         (phase) => (
                             <div

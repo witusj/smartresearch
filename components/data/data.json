@@ -166,6 +166,62 @@
         "desc": "Open-source software powers nearly all the world’s major companies. This software is freely available, and is developed collaboratively, maintained by a broad network that includes everyone from unpaid volunteers to employees at competing tech companies. Here’s how giving away software for free has proven to be a viable business model.",
         "src" :"https://www.youtube.com/embed/SpeDK1TPbew",
         "phase": "outreach"
+    },
+    {
+        "id":25,
+        "name": "Comparative Cognitive Mapping" ,
+        "desc": "This video is part of our online course Multi-stakeholder Strategies: Analysis for Winning Coalitions. ",
+        "src" :"https://www.youtube.com/embed/iqoUw40T79c",
+        "phase": "discovery"
+    },
+    {
+        "id":26,
+        "name": "How to ask a question: conducting research for your startup" ,
+        "desc": "Join Google Search User Experience researcher Tomer Sharon as he shares interview techniques to help you get better answers in your customer research.",
+        "src" :"https://www.youtube.com/embed/8tiuWYs5Z-A",
+        "phase": "analysis"
+    },
+    {
+        "id":27,
+        "name": "Learn to build your personal brand" ,
+        "desc": "Donna Rachelson is founder of Branding & Marketing YOU a business focused on helping people develop and grow their personal brands",
+        "src" :"https://www.youtube.com/embed/9bO17Kmf_Ak",
+        "phase": "publication"
+    },
+    {
+        "id":28,
+        "name": "Build Your Brand on LinkedIn" ,
+        "desc": "Learn why a strong personal brand is important for successful recruiting efforts, define the key components of a compelling personal profile, and learn ways to enhance your personal brand beyond your profile.",
+        "src" :"https://www.youtube.com/embed/gbRVqhay6ls",
+        "phase": "publication"
+    },
+    {
+        "id":29,
+        "name": "Correlation vs Causation: A Brief Guide To Communicating Research" ,
+        "desc": "Using causal language when reporting research that only provides evidence of a correlation is one of the most common errors in science reporting.",
+        "src" :"https://www.youtube.com/embed/7bT17r_yIrw",
+        "phase": "writing"
+    },
+    {
+        "id":31,
+        "name": "Video is the Core Communication Tool of the Future" ,
+        "desc": "Capturing and sharing video is now easier than ever. Yet consuming and creating with video remains hard. Our video interfaces today are still rooted in a timeline and force users to deal with individual frames despite advances in video understanding that now show who is in a video, what they are saying, and how they feel. In this talk Mira will present a framework for understanding common video tasks followed by research projects that point to possibilities for future video interaction.",
+        "src" :"https://www.youtube.com/embed/mvQK_ELDEiY",
+        "phase": "publication"
+    },
+    {
+        "id":32,
+        "name": "How to use OBS for Screen Recording or Streaming" ,
+        "desc": "In this step-by-step tutorial, learn how to get started using Open Broadcaster Software. OBS is an extremely powerful and versatile screen recorder and allows you to stream to services like Twitch, Facebook, and YouTube.",
+        "src" :"https://www.youtube.com/embed/ySENWFIkL7c",
+        "phase": "publication"
+    },
+    {
+        "id":33,
+        "name": "Project Retrospective" ,
+        "desc": "Tom Wijmenga van Aresz Project Professionals legt in deze video uit hoe je een goede project retrospective met je team organiseert zodat ook jou project de volgende keer nóg beter gaat.",
+        "src" :"https://www.youtube.com/embed/6J1gYUe920g",
+        "phase": "assessment"
     }
 
 ]

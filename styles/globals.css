@@ -34,24 +34,76 @@ a {
   width: 100%;
 }
 
-.discovery {
+.btn.all {
+  background-color: white;
+  border: 1px solid rgb(52, 70, 86);
+  width: 150px;
+}
+
+.btn.discovery {
+  background-color: tomato;
+  color: white;
+  border: 1px solid tomato;
+  width: 150px;
+}
+
+.btn.analysis {
+  background-color: rgb(255, 205, 4);
+  color: white;
+  border: 1px solid rgb(255, 205, 4);
+  width: 150px;
+}
+
+.btn.writing {
+  background-color: deepskyblue;
+  color: white;
+  border: 1px solid deepskyblue;
+  width: 150px;
+}
+
+.btn.publication {
+  background-color: rgb(255, 111, 0);
+  color: white;
+  border: 1px solid rgb(255, 111, 0);
+  width: 150px;
+}
+
+.btn.outreach {
+  background-color: rgb(4, 187, 32);
+  color: white;
+  border: 1px solid rgb(4, 187, 32);
+  width: 150px;
+}
+
+.btn.assessment {
+  background-color: rgb(255, 174, 3);
+  color: white;
+  border: 1px solid rgb(255, 174, 3);
+  width: 150px;
+}
+
+.card-footer.discovery {
   background-color: tomato;
 }
 
-.writing {
-  background-color: deepskyblue;
-}
-
-.analysis {
+.card-footer.analysis {
   background-color: rgb(255, 205, 4);
 }
 
-.assessment {
+.card-footer.writing {
+  background-color: deepskyblue;
+}
+
+.card-footer.publication {
   background-color: rgb(255, 111, 0);
 }
 
-.outreach {
+.card-footer.outreach {
   background-color: rgb(4, 187, 32);
+}
+
+.card-footer.assessment {
+  background-color: rgb(255, 174, 3);
 }
 
 .card {

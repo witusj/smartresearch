@@ -222,6 +222,13 @@
         "desc": "Tom Wijmenga van Aresz Project Professionals legt in deze video uit hoe je een goede project retrospective met je team organiseert zodat ook jou project de volgende keer nóg beter gaat.",
         "src" :"https://www.youtube.com/embed/6J1gYUe920g",
         "phase": "assessment"
+    },
+    {
+        "id":34,
+        "name": "Quantum Computing Expert Explains One Concept in 5 Levels of Difficulty" ,
+        "desc": "WIRED has challenged IBM's Dr. Talia Gershon (Senior Manager, Quantum Research) to explain quantum computing to 5 different people; a child, teen, a college student, a grad student and a professional",
+        "src" :"https://www.youtube.com/embed/OWJCfOvochA",
+        "phase": "publication"
     }
 
 ]

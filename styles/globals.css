@@ -9,6 +9,7 @@ body {
 a {
   color: royalblue;
   text-decoration: none;
+  cursor: pointer;
 }
 
 * {
@@ -38,6 +39,7 @@ a {
   background-color: white;
   border: 1px solid rgb(52, 70, 86);
   width: 150px;
+  cursor: pointer;
 }
 
 .btn.discovery {
@@ -45,6 +47,7 @@ a {
   color: white;
   border: 1px solid tomato;
   width: 150px;
+  cursor: pointer;
 }
 
 .btn.analysis {
@@ -52,6 +55,7 @@ a {
   color: white;
   border: 1px solid rgb(255, 205, 4);
   width: 150px;
+  cursor: pointer;
 }
 
 .btn.writing {
@@ -59,6 +63,7 @@ a {
   color: white;
   border: 1px solid deepskyblue;
   width: 150px;
+  cursor: pointer;
 }
 
 .btn.publication {
@@ -66,6 +71,7 @@ a {
   color: white;
   border: 1px solid rgb(255, 111, 0);
   width: 150px;
+  cursor: pointer;
 }
 
 .btn.outreach {
@@ -73,6 +79,7 @@ a {
   color: white;
   border: 1px solid rgb(4, 187, 32);
   width: 150px;
+  cursor: pointer;
 }
 
 .btn.assessment {
@@ -80,6 +87,7 @@ a {
   color: white;
   border: 1px solid rgb(255, 174, 3);
   width: 150px;
+  cursor: pointer;
 }
 
 .card-footer.discovery {

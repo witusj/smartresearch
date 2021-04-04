@@ -2,7 +2,7 @@ import { Toolbar } from '../components/toolbar'
 import { AuditCards } from '../components/auditcards'
 import styles from '../styles/index.module.scss'
 
-function Intro(props) {
+const Intro = (props) => {
   return (
     <div>
       <h1>{props.heading}</h1>
@@ -16,7 +16,7 @@ function Intro(props) {
   )
 }
 
-function Paragraph(props) {
+const Paragraph= (props) => {
   return (
     <div>
       <h3>{props.heading}</h3>
@@ -25,7 +25,7 @@ function Paragraph(props) {
   )
 }
 
-function WorkFlowTable() {
+const WorkFlowTable = () => {
   return (
     <div>
       <table className="table table-hover">
@@ -94,7 +94,7 @@ function WorkFlowTable() {
   )
 }
 
-function Contributors() {
+const Contributors = () => {
   return (
     <div>
       <h3>Bronnen</h3>
@@ -127,7 +127,7 @@ function Contributors() {
   )
 }
 
-export default function Home() {
+const Home = () => {
   return (
     <div className='page-container'>
       <Toolbar />
@@ -156,3 +156,5 @@ export default function Home() {
     
   )
 }
+
+export default Home

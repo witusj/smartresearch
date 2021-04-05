@@ -203,32 +203,59 @@
         "phase": "writing"
     },
     {
-        "id":31,
+        "id":30,
         "name": "Video is the Core Communication Tool of the Future" ,
         "desc": "Capturing and sharing video is now easier than ever. Yet consuming and creating with video remains hard. Our video interfaces today are still rooted in a timeline and force users to deal with individual frames despite advances in video understanding that now show who is in a video, what they are saying, and how they feel. In this talk Mira will present a framework for understanding common video tasks followed by research projects that point to possibilities for future video interaction.",
         "src" :"https://www.youtube.com/embed/mvQK_ELDEiY",
         "phase": "publication"
     },
     {
-        "id":32,
+        "id":31,
         "name": "How to use OBS for Screen Recording or Streaming" ,
         "desc": "In this step-by-step tutorial, learn how to get started using Open Broadcaster Software. OBS is an extremely powerful and versatile screen recorder and allows you to stream to services like Twitch, Facebook, and YouTube.",
         "src" :"https://www.youtube.com/embed/ySENWFIkL7c",
         "phase": "publication"
     },
     {
-        "id":33,
+        "id":32,
         "name": "Project Retrospective" ,
         "desc": "Tom Wijmenga van Aresz Project Professionals legt in deze video uit hoe je een goede project retrospective met je team organiseert zodat ook jou project de volgende keer nóg beter gaat.",
         "src" :"https://www.youtube.com/embed/6J1gYUe920g",
         "phase": "assessment"
     },
     {
-        "id":34,
+        "id":33,
         "name": "Quantum Computing Expert Explains One Concept in 5 Levels of Difficulty" ,
         "desc": "WIRED has challenged IBM's Dr. Talia Gershon (Senior Manager, Quantum Research) to explain quantum computing to 5 different people; a child, teen, a college student, a grad student and a professional",
         "src" :"https://www.youtube.com/embed/OWJCfOvochA",
         "phase": "publication"
+    },
+    {
+        "id":34,
+        "name": "Meet Coda" ,
+        "desc": "Coda is a new doc that brings words, data, and teams together. It starts with a blinking cursor on a blank page and can grow as big as your team's ambition. Coda comes with a set of building blocksーlike pages for infinite depth, tables that talk to each other, and buttons that take action inside or outside your docーwhich anyone can combine to make a doc as powerful as an app. People have made Coda docs that do everything from launch products, to scale small businesses, to help them study for tests. What will you Coda?",
+        "src" :"https://www.youtube.com/embed/oLYZv68M3Kg",
+        "phase": "analysis"
+    },
+    {
+        "id":34,
+        "name": "Meet Coda" ,
+        "desc": "Coda is a new doc that brings words, data, and teams together. It starts with a blinking cursor on a blank page and can grow as big as your team's ambition. Coda comes with a set of building blocksーlike pages for infinite depth, tables that talk to each other, and buttons that take action inside or outside your docーwhich anyone can combine to make a doc as powerful as an app. People have made Coda docs that do everything from launch products, to scale small businesses, to help them study for tests. What will you Coda?",
+        "src" :"https://www.youtube.com/embed/oLYZv68M3Kg",
+        "phase": "analysis"
+    },
+    {
+        "id":35,
+        "name": "The dschool Starter Kit" ,
+        "desc": "The d.school Starter Kit is an online intro to design where you'll learn a medley of design abilities, methods, & mindsets.",
+        "src" :"4w2YnX5ibi0",
+        "phase": "discovery"
+    },
+    {
+        "id":36,
+        "name": "Epics, User Stories & Tasks" ,
+        "desc": "This video goes into more detail on the process of documenting requirements for the Product Backlog via the concept of Epics and User Stories and follows the Agile SCRUM methodology.",
+        "src" :"MHm2YuszaFM",
+        "phase": "analysis"
     }
-
 ]

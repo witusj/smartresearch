@@ -238,24 +238,17 @@
         "phase": "analysis"
     },
     {
-        "id":34,
-        "name": "Meet Coda" ,
-        "desc": "Coda is a new doc that brings words, data, and teams together. It starts with a blinking cursor on a blank page and can grow as big as your team's ambition. Coda comes with a set of building blocksーlike pages for infinite depth, tables that talk to each other, and buttons that take action inside or outside your docーwhich anyone can combine to make a doc as powerful as an app. People have made Coda docs that do everything from launch products, to scale small businesses, to help them study for tests. What will you Coda?",
-        "src" :"https://www.youtube.com/embed/oLYZv68M3Kg",
-        "phase": "analysis"
-    },
-    {
         "id":35,
         "name": "The dschool Starter Kit" ,
         "desc": "The d.school Starter Kit is an online intro to design where you'll learn a medley of design abilities, methods, & mindsets.",
-        "src" :"4w2YnX5ibi0",
+        "src" :"https://www.youtube.com/embed/4w2YnX5ibi0",
         "phase": "discovery"
     },
     {
         "id":36,
         "name": "Epics, User Stories & Tasks" ,
         "desc": "This video goes into more detail on the process of documenting requirements for the Product Backlog via the concept of Epics and User Stories and follows the Agile SCRUM methodology.",
-        "src" :"MHm2YuszaFM",
+        "src" :"https://www.youtube.com/embed/MHm2YuszaFM",
         "phase": "analysis"
     }
 ]

@@ -250,5 +250,26 @@
         "desc": "This video goes into more detail on the process of documenting requirements for the Product Backlog via the concept of Epics and User Stories and follows the Agile SCRUM methodology.",
         "src" :"https://www.youtube.com/embed/MHm2YuszaFM",
         "phase": "analysis"
+    },
+    {
+        "id":37,
+        "name": "Making the web more visual with Web Stories" ,
+        "desc": "Web Stories are a web-based version of the popular Stories format that blend video, audio, images, animation, and text to create a dynamic consumption experience. Learn about the why, what, and how of Web Stories and how Google has gone the extra mile to let Web Stories shine by providing the right tools and the right guidance for content creators to succeed on the web.",
+        "src" :"https://www.youtube.com/embed/mp6IUgUXJds",
+        "phase": "publication"
+    },
+    {
+        "id":38,
+        "name": "How Open Source Changed My Life with Max Stoiber" ,
+        "desc": "Despite his young age of only 23, Max has achieved incredible things: he's created react-boilerplate and styled-components, his start-up, Spectrum, was recently acquired by GitHub and he gives talks all over the world. Learn more about his journey - and how he dropped out of university (twice!) - in this mini-doc.",
+        "src" :"https://www.youtube.com/embed/ifq3xhik8tE",
+        "phase": "outreach"
+    },
+    {
+        "id":39,
+        "name": "Essential Tips for Collecting Great User Feedback" ,
+        "desc": "Is user research worth it?🤔 Is it actually something you should do? How the #$%@ should you capture the data? If you want to improve your product, you MUST interview your users, or potential users. How should you document the feedback from the users? What tool should you use? No sweat. We’ve got you covered!🎯In our latest video, we dive into the ULTIMATE way to capture feedback from users!",
+        "src" :"https://www.youtube.com/embed/uEIxLPqPAE",
+        "phase": "assessment"
     }
 ]

@@ -15,7 +15,7 @@ export const AuditCards = () => {
                     firstquestionansw={['Google Scholar', 'Web of Science', 'YouTube', 'Anders']}
                     secondquestiontxt="Welke criteria heb je gehanteerd om de bruikbaarheid te bepalen van de gevonden bronnen en hoe heb je getest?"
                     secondquestionansw={['Autoriteit', 'Accuraatheid', 'Objectiviteit', 'Recentheid', 'Dekking', 'Andere criteria']}
-                    thirdquestiontxt="Welke methode heb je gehanteerd om  te bepalen dat je alle relevante informatie omtrent het het vraagstuk hebt gevonden?"
+                    thirdquestiontxt="Welke methode heb je gehanteerd om  te bepalen dat je alle relevante informatie omtrent het vraagstuk hebt gevonden?"
                     thirdquestionansw={[[<a href="https://en.wikipedia.org/wiki/Delphi_method" target="_blank">Delphi</a>, ' methode'], [<a href="https://en.wikipedia.org/wiki/PICO_process" target="_blank">PICO</a>, ' framework'], [<a href="https://journals.library.ualberta.ca/eblip/index.php/EBLIP/article/view/9741/8144" target="_blank">ECLIPSE</a>, ' framework'], [<a href="https://journals.library.ualberta.ca/eblip/index.php/EBLIP/article/view/9741/8144" target="_blank">SPICE</a>, ' framework']]}
                     fourthquestiontxt="Waaruit blijkt de deelname van stakeholders en experts tijdens de discoveryfase?"
                     fourthquestionansw={['Beschrijft empathize-proces', 'Beschrijft define-proces', 'Beschrijft ideate-proces', 'Beschrijft prototype-proces', 'Anders']}

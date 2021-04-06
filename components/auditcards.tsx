@@ -10,7 +10,7 @@ export const AuditCards = () => {
                     title="Discovery"
                     imagehref = "discovery.svg"
                     learningoutcome="Als bedrijfskundig onderzoeker kan ik relevante bronnen vinden"
-                    learninggoals={['de context van het onderzoeksthema beter begrijp', 'een betere inschatting kan maken wat betreft de uitdagingen', 'een betere inschatting kan maken wat betreft de uitdagingen']}
+                    learninggoals={['de context van het onderzoeksthema beter begrijp', 'een betere inschatting kan maken wat betreft de uitdagingen', 'inspiratie vind over hoe deze uitdagingen benaderd kunnen worden.']}
                     firstquestiontxt="Welke repositories heb je gebruikt en welke zoekstrategieën heb je toegepast?"
                     firstquestionansw={['Google Scholar', 'Web of Science', 'YouTube', 'Anders']}
                     secondquestiontxt="Welke criteria heb je gehanteerd om de bruikbaarheid te bepalen van de gevonden bronnen en hoe heb je getest?"

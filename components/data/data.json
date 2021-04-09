@@ -292,5 +292,47 @@
         "desc": "In this video, I show you how to install and use Gephi to do some basic network analysis of a large Ming dynasty social network derived from the China Biographical Database ",
         "src" :"https://www.youtube.com/embed/WpFZmIJTjA8",
         "phase": "analysis"
+    },
+    {
+        "id":43,
+        "name": "What is A/B Testing?" ,
+        "desc": "In this quick tutorial, we go over the basics of A/B testing, as well as answer some in-depth questions such as: why should businesses conduct A/B testing? Or how do you perform an A/B test?",
+        "src" :"https://www.youtube.com/embed/zFMgpxG-chM",
+        "phase": "analysis"
+    },
+    {
+        "id":44,
+        "name": "Research impact: The impact cycle of research projects" ,
+        "desc": "The research impact cycle: ever wondered how research impact evolves and how you can plan it? Then watch this vlog on the impact cycle tool. Have fun!",
+        "src" :"https://www.youtube.com/embed/KT4wg0vR6u8",
+        "phase": "outreach"
+    },
+    {
+        "id":45,
+        "name": "Watch me build a web app in 10 minutes without using code" ,
+        "desc": "In this video I am building a searchable NoCode tools directory on bubble.io. I time myself to see if I can do it in under 10 minutes.",
+        "src" :"https://www.youtube.com/embed/xL8gPpJYx78",
+        "phase": "writing"
+    },
+    {
+        "id":46,
+        "name": "How I Organise My Life with Roam" ,
+        "desc": "In this video, I'll be taking you through how I use Roam on a daily basis to take smart notes and organise all things important to me. ",
+        "src" :"https://www.youtube.com/embed/bpikCLhpIRY",
+        "phase": "writing"
+    },
+    {
+        "id":47,
+        "name": "Roam Research - My Daily Review Workflow" ,
+        "desc": "This is my current, and subject to change, daily review workflow using Roam Research.",
+        "src" :"https://www.youtube.com/embed/DsiqieIx2Ro",
+        "phase": "writing"
+    },
+    {
+        "id":48,
+        "name": "Introduction to experiment design" ,
+        "desc": "Introduction to experiment design. Explanatory and response variables. Control and treatment groups.",
+        "src" :"https://www.youtube.com/embed/DaBq0naj0YY",
+        "phase": "analysis"
     }
 ]

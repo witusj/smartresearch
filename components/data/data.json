@@ -271,5 +271,26 @@
         "desc": "Is user research worth it?🤔 Is it actually something you should do? How the #$%@ should you capture the data? If you want to improve your product, you MUST interview your users, or potential users. How should you document the feedback from the users? What tool should you use? No sweat. We’ve got you covered!🎯In our latest video, we dive into the ULTIMATE way to capture feedback from users!",
         "src" :"https://www.youtube.com/embed/-uEIxLPqPAE",
         "phase": "assessment"
+    },
+    {
+        "id":40,
+        "name": "Zero to UX: Escape the Research Death Spiral" ,
+        "desc": "In order to create great products, proper UX research methods should be applied. Watch this video to learn how to avoid the most common UX research pitfalls. ",
+        "src" :"https://www.youtube.com/embed/NkU2QuHY2b8",
+        "phase": "discovery"
+    },
+    {
+        "id":41,
+        "name": "Open Knowledge Maps" ,
+        "desc": "In this webinar, founder Peter Kraker introduces Open Knowledge Maps, an interface that searches databases for research and presents search results visually, in the form of knowledge maps. The knowledge maps provide an instant overview of a topic by showing the main areas researched at a glance, and papers related to each area. Papers found are clustered together into similar topics.",
+        "src" :"https://www.youtube.com/embed/tWw4kJzy7uo",
+        "phase": "discovery"
+    },
+    {
+        "id":42,
+        "name": "Network Analysis with Gephi" ,
+        "desc": "In this video, I show you how to install and use Gephi to do some basic network analysis of a large Ming dynasty social network derived from the China Biographical Database ",
+        "src" :"https://www.youtube.com/embed/WpFZmIJTjA8",
+        "phase": "analysis"
     }
 ]

@@ -338,8 +338,22 @@
     {
         "id":49,
         "name": "Jonge wetenschappers willen de wereld verbeteren" ,
-        "desc": "Maud Hartstra en Juliette Boughouf van Thrive spreken jonge wetenschappers over kwantumfysicacirculair design en gedragseconomie!",
+        "desc": "Maud Hartstra en Juliette Boughouf van Thrive spreken jonge wetenschappers over kwantumfysica, circulair design en gedragseconomie!",
         "src" :"https://www.youtube.com/embed/Pb4GbXuQvDY",
         "phase": "outreach"
+    },
+    {
+        "id":50,
+        "name": "RPA and Process Mining" ,
+        "desc": "Process Mining lets you understand your process data and their dependencies to find patterns, anomalies and opportunities for improvement. Compare designed processes to as-is processes to see if they execute as planned and make changes before they impact your bottom line. Simulate and analyze process optimization scenarios to determine the best path to improvement. RPA, standing for robotic process automation, except with AI and machine learning included – has long been the future as a form of business process automation technology, harnessing software robots or AI (artificial intelligence) units or digital workers.",
+        "src" :"https://www.youtube.com/embed/PPMfJNn2iKI",
+        "phase": "analysis"
+    },
+    {
+        "id":51,
+        "name": "Analysing Textual Data" ,
+        "desc": "* Content analysis: conceptual analysis and relational analysis * Coding scheme development: inductive, deductive, hybrid, coding scheme structure * Coding in Atlas.ti: open coding, applying codes, coding to facilitate relational analysis * Analysis and output in Atlas.ti: conceptual analysis, and relational analysis",
+        "src" :"https://www.youtube.com/embed/va1r8lL-scg",
+        "phase": "analysis"
     }
 ]

@@ -334,5 +334,12 @@
         "desc": "Introduction to experiment design. Explanatory and response variables. Control and treatment groups.",
         "src" :"https://www.youtube.com/embed/DaBq0naj0YY",
         "phase": "analysis"
+    },
+    {
+        "id":49,
+        "name": "Jonge wetenschappers willen de wereld verbeteren" ,
+        "desc": "Maud Hartstra en Juliette Boughouf van Thrive spreken jonge wetenschappers over kwantumfysicacirculair design en gedragseconomie!",
+        "src" :"https://www.youtube.com/embed/Pb4GbXuQvDY",
+        "phase": "outreach"
     }
 ]

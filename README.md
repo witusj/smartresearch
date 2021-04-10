@@ -1,34 +1,15 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Smart Research
 
-## Getting Started
+Als hogeschooldocent zie ik veel studenten worstelen met hun onderzoek. De kern begrijpen ze meestal wel. Ze begrijpen dat je een probleem moet vertalen naar een onderzoeksvraag en die weer uitwerkt naar een onderzoeksmethode. Dat is een gedeelte van de 'wat'-vraag. Voor een beginnende student is dit voldoende. Echter terwijl ze vorderen in hun studieloopbaan, wordt er verwacht dat ze kunnen beslissen over de vorm van het onderzoeksproduct, de waarde ervan kunnen verwoorden en een retrospectie kunnen uitvoeren. Ik zie vaak dat studenten hier te weinig over nadenken.
 
-First, run the development server:
+Andere problemen ontstaan als er verwacht wordt op een hoger cognitief nivopdrachtenvragen en methodes aangeleverd. Er wordt alleen gekeken naar de kwaliteit van toepassing. Uiteindelijk moet een student echter leren hoe hij zelf tot een juiste onderzoeksvraag komt, daar een passende methode bij kiest en hoe de resutaten het beste kunnen worden teruggegeven. Bovendien moet hij kunnen nadenken over de waarde van zijn werk - liefst van tevoren - en kritisch kunnen reflecteren op de kwaliteit van uitvoering.
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+Met de site [Smart Research](https://smartresearch.vercel.app/) tracht ik studenten in bovenstaande zaken te accomoderen door ze een overzicht te geven van het gehele onderzoeksproces en hiervoor een auditsysteem te bieden. Deze vinden ze terug op de startpagina.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Smart
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+We leven in een tijd van enorme technologische innovaties. Digitalisering is de norm wat betreft de manier waarop informatie wordt opgeslagen en gedeeld en de manier waarop we met elkaar communiceren (in ieder geval de studenten en hun jongere broertjes en zusjes). Technologie maakt nieuwe businessmodellen mogelijk en breekt traditionele af. De enorme innovaties op het gebied van artificial intelligence zorgen voor hyperautomatisering; zelfs zaken die tot voor kort tot het exclusieve domein van menselijke vaardigheden behoorden, kunnen nu door machines worden uitgevoerd.
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+De manier waarop onderzoek wordt uitgevoerd, veranderd hierdoor. Er worden continue nieuwe tools ontwikkeld. Dit betekent dat er productiever gewerkt kan worden. Dit is een voordeel, maar betekent tevens dat de normen stijgen; er wordt meer verwacht van de onderzoeker. Het is bijvoorbeeld niet meer voldoende dat een student een proces kan uittekenen in een diagram. De verwachting is inmiddels dat met behulp van grote hoeveelheden data en slimme software patronen in workflows zichtbaar worden, die vergeleken kunnen worden met het oorspronkelijke ontwerp. Dit heet proces mining en is een onderdeel van het grotere vakgebied Data Science.
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Op de pagina [inspiratie](https://smartresearch.vercel.app/inspiration) krijgen studenten allerlei instrumenten aangereikt waarmee ze hun onderzoeksproces kunnen verrijken. Ieder instrument is gekoppeld aan een fase in het onderzoeksproces en hierop kan worden gefilterd.

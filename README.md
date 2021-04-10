@@ -2,7 +2,7 @@
 
 Als hogeschooldocent zie ik veel studenten worstelen met hun onderzoek. De kern begrijpen ze meestal wel. Ze begrijpen dat je een probleem moet vertalen naar een onderzoeksvraag en die weer uitwerkt naar een onderzoeksmethode. Dat is een gedeelte van de 'wat'-vraag. Voor een beginnende student is dit voldoende. Echter terwijl ze vorderen in hun studieloopbaan, wordt er verwacht dat ze kunnen beslissen over de vorm van het onderzoeksproduct, de waarde ervan kunnen verwoorden en een retrospectie kunnen uitvoeren. Ik zie vaak dat studenten hier te weinig over nadenken.
 
-Andere problemen ontstaan als er verwacht wordt op een hoger cognitief nivopdrachtenvragen en methodes aangeleverd. Er wordt alleen gekeken naar de kwaliteit van toepassing. Uiteindelijk moet een student echter leren hoe hij zelf tot een juiste onderzoeksvraag komt, daar een passende methode bij kiest en hoe de resutaten het beste kunnen worden teruggegeven. Bovendien moet hij kunnen nadenken over de waarde van zijn werk - liefst van tevoren - en kritisch kunnen reflecteren op de kwaliteit van uitvoering.
+Andere problemen ontstaan als er verwacht wordt op een hoger cognitief niveau te opereren. Uiteindelijk moet een student leren hoe hij zelf tot een juiste onderzoeksvraag komt, daar een passende methode bij kiest en hoe de resutaten het beste kunnen worden teruggegeven. Bovendien moet hij kunnen nadenken over de waarde van zijn werk - liefst van tevoren - en kritisch kunnen reflecteren op de kwaliteit van uitvoering.
 
 Met de site [Smart Research](https://smartresearch.vercel.app/) tracht ik studenten in bovenstaande zaken te accomoderen door ze een overzicht te geven van het gehele onderzoeksproces en hiervoor een auditsysteem te bieden. Deze vinden ze terug op de startpagina.
 

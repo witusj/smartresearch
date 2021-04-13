@@ -355,5 +355,12 @@
         "desc": "* Content analysis: conceptual analysis and relational analysis * Coding scheme development: inductive, deductive, hybrid, coding scheme structure * Coding in Atlas.ti: open coding, applying codes, coding to facilitate relational analysis * Analysis and output in Atlas.ti: conceptual analysis, and relational analysis",
         "src" :"https://www.youtube.com/embed/va1r8lL-scg",
         "phase": "analysis"
+    },
+    {
+        "id":52,
+        "name": "Making Data-driven Decisions in Business" ,
+        "desc": "Learn about how data can empower our decisions, big and small, the difference between quantitative and qualitative analysis and when to use them, the pros and cons of different data visualization tools, what metrics are and how analysts use them, and how to use mathematical thinking to connect the dots.",
+        "src" :"https://www.youtube.com/embed/EevYFzAqJ2M",
+        "phase": "analysis"
     }
 ]

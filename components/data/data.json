@@ -369,5 +369,12 @@
         "desc": "These videos are from the Introduction to Agent Based Modeling course on Complexity Explorer (complexityexplorer.org) taught by Prof. Bill Rand. This course will explore how to use agent-based modeling to understand and examine a widely diverse and disparate set of complex problems.",
         "src" :"https://www.youtube.com/embed/FVmQbfsOkGc",
         "phase": "analysis"
+    },
+    {
+        "id":54,
+        "name": "How to level up your business's digital transformation" ,
+        "desc": "THow we use process mining as the starting point to support your digital transformation.",
+        "src" :"https://www.youtube.com/embed/SiXY8eSfj3w",
+        "phase": "analysis"
     }
 ]

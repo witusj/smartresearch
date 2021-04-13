@@ -362,5 +362,12 @@
         "desc": "Learn about how data can empower our decisions, big and small, the difference between quantitative and qualitative analysis and when to use them, the pros and cons of different data visualization tools, what metrics are and how analysts use them, and how to use mathematical thinking to connect the dots.",
         "src" :"https://www.youtube.com/embed/EevYFzAqJ2M",
         "phase": "analysis"
+    },
+    {
+        "id":53,
+        "name": "Agent-Based Modeling" ,
+        "desc": "These videos are from the Introduction to Agent Based Modeling course on Complexity Explorer (complexityexplorer.org) taught by Prof. Bill Rand. This course will explore how to use agent-based modeling to understand and examine a widely diverse and disparate set of complex problems.",
+        "src" :"https://www.youtube.com/embed/FVmQbfsOkGc",
+        "phase": "analysis"
     }
 ]

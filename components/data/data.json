@@ -376,5 +376,12 @@
         "desc": "How we use process mining as the starting point to support your digital transformation.",
         "src" :"https://www.youtube.com/embed/SiXY8eSfj3w",
         "phase": "analysis"
+    },
+    {
+        "id":55,
+        "name": "Communication Do's and Don't for Data Analysts" ,
+        "desc": "It’s important to keep your team members’ and stakeholders’ needs in mind. You can use these communication best practices in your day-to-day work. Remember, communication is key. Think of these skills as new tools that’ll help you work with your team to find the best possible solutions.",
+        "src" :"https://www.youtube.com/embed/KR4Fm94nwUs",
+        "phase": "publication"
     }
 ]

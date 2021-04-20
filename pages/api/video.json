@@ -390,5 +390,12 @@
         "desc": "https://FlowCharts.AI​ lets you both create and administer smart flow charts, workflows, decision trees, dynamic surveys and questionnaire forms. We have developed a smart dynamic and interactive survey engine in which you can add your own questions and have your respondent be magically routed through your flowchart & workflow depending on their answers to your questions. You can choose different responses, yes/no, free text, single choice and multiple-choice to your questions. You can also steer your survey according to conditions, i.e. you can ask follow-up questions depending on how the respondent answers a particular question, all logic-driven.",
         "src" :"https://www.youtube.com/embed/RukQxIl7DIQ",
         "phase": "analysis"
+    },
+    {
+        "id":57,
+        "name": "Notion Training: The Basics" ,
+        "desc": "Welcome to Notion! This video will cover the basics: * Add & edit content * Set up your workspace * Collaborate with teammates",
+        "src" :"https://www.youtube.com/embed/aA7si7AmPkY",
+        "phase": "writing"
     }
 ]

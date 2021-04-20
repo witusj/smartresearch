@@ -1,6 +1,6 @@
 import { Row, Col, Card, Button, ButtonGroup } from 'react-bootstrap'
 import { useState } from 'react'
-import data from './data/data.json'
+import data from '../pages/api/video.json'
 import styles from '../styles/inspirationcards.module.scss'
 
 export const InspirationCards = () => {

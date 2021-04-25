@@ -1,5 +1,5 @@
-import { Toolbar } from '../components/Toolbar'
-import { LibItem } from '../components/LibItem'
+import { Toolbar } from '../components/toolbar'
+import { LibItem } from '../components/libitem'
 import { getData } from './api/libguides'
 
 const Libs = ({ items }) => {

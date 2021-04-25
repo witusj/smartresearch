@@ -1,5 +1,5 @@
-import { Toolbar } from '../components/Toolbar'
-import { LibCard } from '../components/LibCard'
+import { Toolbar } from '../components/toolbar'
+import { LibCard } from '../components/libcard'
 import { Row } from 'react-bootstrap'
 import { getData } from './api/libguides'
 import styles from '../styles/libguides.module.scss'

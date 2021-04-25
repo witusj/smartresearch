@@ -1,5 +1,5 @@
-import { InspirationCards} from '../components/InspirationCards'
-import { Toolbar } from '../components/Toolbar'
+import { InspirationCards} from '../components/inspirationcards'
+import { Toolbar } from '../components/toolbar'
 import styles from '../styles/inspiration.module.scss'
 
 export const Inspiration = () => {

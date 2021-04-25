@@ -4,7 +4,7 @@ import { Row } from 'react-bootstrap'
 import { getData } from './api/libguides'
 import styles from '../styles/libguides.module.scss'
 
-const Libguides = ({ items }) => {
+const Libguides = () => {
     return (
         <div className='page-container'>
             <Toolbar />
@@ -29,15 +29,6 @@ const Libguides = ({ items }) => {
             </div>
         </div>
     )
-}
-
-export const getStaticProps = async () => {
-    let items = await getData('EVK6CIDU')
-    return {
-        props: {
-            items,
-        },
-    }
 }
 
 export default Libguides

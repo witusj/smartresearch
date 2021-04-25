@@ -1,5 +1,5 @@
 import { Row } from 'react-bootstrap'
-import { AuditCard } from './AuditCard'
+import { AuditCard } from './auditcard'
 
 export const AuditCards = () => {
     return (

@@ -8,7 +8,8 @@ export let getData = async (cid) => {
 }
 
 export default async (req: NextApiRequest, res: NextApiResponse) => {
-    let cid = req.query.cid
+  let cid = req.query.cid
+  console.log(cid)
     const items = await getData(cid)
     res.status(200).json({ items })
 }

@@ -1,7 +1,4 @@
-
-
 import { Card, Tabs, Tab, ListGroup, Col } from 'react-bootstrap'
-import styles from '../styles/auditcards.module.scss'
 
 export const AuditCard = (props) => {
     
@@ -17,8 +14,8 @@ export const AuditCard = (props) => {
 
     return (
 <Col md={4}>
-            <Card className={`${ styles.auditcard } mb-5`}>
-            <Card.Body className={styles.auditbody}>
+            <Card className={"mb-5"}>
+            <Card.Body>
                 <Tabs className="bg-light" defaultActiveKey="leerdoel" id={props.title}>
                     <Tab className="pt-5 p-3" eventKey="leerdoel" title={props.title}>
                             <h5>

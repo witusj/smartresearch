@@ -1,10 +1,9 @@
 import { Row } from 'react-bootstrap'
-import { AuditCard } from '../components/auditcard'
-import styles from '../styles/auditcards.module.scss'
+import { AuditCard } from './AuditCard'
 
 export const AuditCards = () => {
     return (
-        <div className={styles.main}>
+        <div>
             <Row>
                 <AuditCard
                     title="Discovery"

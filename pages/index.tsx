@@ -1,5 +1,5 @@
-import { Toolbar } from '../components/toolbar'
-import { AuditCards } from '../components/auditcards'
+import { Toolbar } from '../components/Toolbar'
+import { AuditCards } from '../components/AuditCards'
 import styles from '../styles/index.module.scss'
 
 const Intro = (props) => {

@@ -404,5 +404,12 @@
         "desc": "How to manage and lead creative teams in a way that doesn't make you a micromanager and stifle the creativity of others? How do you multiply your team by giving feedback? What is the proper way to give feedback? How do you give good direction without robbing your team's creativity?",
         "src" :"https://www.youtube.com/embed/O6Zordo0OXE",
         "phase": "assessment"
+    },
+    {
+        "id":59,
+        "name": "Root Cause Analysis Techniques With Examples" ,
+        "desc": "This video on Root Cause Analysis Techniques explains different root cause analysis techniques with examples and how these techniques help in effective problem-solving in quality management.",
+        "src" :"https://www.youtube.com/embed/oMZg-Q8EBek",
+        "phase": "analysis"
     }
 ]

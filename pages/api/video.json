@@ -411,5 +411,12 @@
         "desc": "This video on Root Cause Analysis Techniques explains different root cause analysis techniques with examples and how these techniques help in effective problem-solving in quality management.",
         "src" :"https://www.youtube.com/embed/oMZg-Q8EBek",
         "phase": "analysis"
+    },
+    {
+        "id":60,
+        "name": "Root Cause Analysis Tools" ,
+        "desc": "Root Cause Analysis gets better results with the right tools. Try some of these ideas and see if they help make your process more effective!",
+        "src" :"https://www.youtube.com/embed/QErsdzWQGmc",
+        "phase": "analysis"
     }
 ]

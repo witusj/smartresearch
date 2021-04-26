@@ -29,7 +29,7 @@ export const LibItem = (props) => {
                         {textTruncation(props.description, 280) }
                     </Card.Text>
                     <Card.Text>
-                        <small class="text-muted">
+                        <small className="text-muted">
                             Gepubliceerd op: { dateConverter(props.date) }
                         </small>
                     </Card.Text>

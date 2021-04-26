@@ -13,4 +13,3 @@ export default async (req: NextApiRequest, res: NextApiResponse) => {
     const items = await getData(cid)
     res.status(200).json({ items })
 }
-

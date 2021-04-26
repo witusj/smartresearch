@@ -82,6 +82,14 @@ a {
   width: 150px;
 }
 
+.btn.libs {
+  background-color: rgb(4, 187, 32);
+  color: white;
+  border: 1px solid rgb(4, 187, 32);
+  width: 200px;
+  margin-top: auto;
+}
+
 .card-footer.discovery {
   background-color: tomato;
 }

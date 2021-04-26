@@ -1,7 +1,6 @@
 import { Toolbar } from '../components/toolbar'
 import { LibCard } from '../components/libcard'
 import { Row } from 'react-bootstrap'
-import { getData } from './api/libguides'
 import styles from '../styles/libguides.module.scss'
 
 const Libguides = () => {

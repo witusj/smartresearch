@@ -8,7 +8,7 @@ export const Toolbar = () => {
         <div className="mb-5">
             <img className="img-fluid mb-5" src="logo.png"></img>
             <Navbar className="justify-content-center" bg="light" expand="lg">
-            <div class="mx-auto d-sm-flex d-block flex-sm-nowrap">
+            <div className="mx-auto d-sm-flex d-block flex-sm-nowrap">
             <Navbar.Toggle aria-controls="basic-navbar-nav" />
             <Navbar.Collapse id="basic-navbar-nav">
                 <Nav className="mr-auto">

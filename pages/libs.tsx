@@ -6,7 +6,7 @@ import styles from '../styles/libs.module.scss'
 const Libs = ({ items, title }) => {
    
     const libitems = items.map(item => {
-        return (
+        return ( item.data.itemType != 'note' &&
             <LibItem
                 title={item.data.title}
                 description={item.data.abstractNote}

@@ -11,10 +11,7 @@ export const LibItem = (props) => {
     }
 
     const textTruncation = (text, num) => {
-        const setText = text + ' '
-        const truncText = setText.length <= num ? text : text.slice(0, num) + '....'
-        
-
+        const truncText = text.length <= num ? text : text.slice(0, num) + '....'
         return truncText
     }
 

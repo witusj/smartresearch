@@ -4,9 +4,10 @@ import styles from '../styles/libcard.module.scss'
 export const LibCard = (props) => {
     return (
             <Col md={4}>
-                <Card className={styles.libcardcard}> 
+            <Card className={styles.libcardcard}>
+                <Card.Img variant="top" src={props.imagesrc} />
                 <Card.Body className={styles.libcardbody}>
-                    <Card.Img variant="top" src={props.imagesrc} />
+                    
                         <Card.Title className={styles.libcardtitle}>{ props.title }</Card.Title>
                             <Card.Text>
                                 { props.description }

@@ -118,11 +118,6 @@ a {
   background-color: rgb(255, 174, 3);
 }
 
-.card {
-  align-items: flex-end;
-  display: flex;
-}
-
 .libstitle {
   margin-top: 5%;
 }

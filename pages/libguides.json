@@ -1,0 +1,26 @@
+[
+    {
+        "title" : "Data Driven",
+        "cid" : "EVK6CIDU",
+        "description" : "AI & Machine Learning, Analytics & Business Intelligence, Automation, Data & Data Culture",
+        "image" : "datascience.jpeg"
+    },
+    {
+        "title" : "Web Tech",
+        "cid" : "SL2NBB5L",
+        "description" : "No-/LowCode, NoSQL, Serverless, APIs, UX Design",
+        "image" : "digitaltransformation.jpeg"
+    },
+    {
+        "title" : "Smart Innovation",
+        "cid" : "UELEJHZ2",
+        "description" : "Agile, Co-creation, Open Source,DevSecOps, CI/CD, Digital Transformation, Design Thinking, Customer Journey",
+        "image" : "openinnovation.jpeg"
+    },
+    {
+        "title" : "Digital Process Engineering",
+        "cid" : "2FBG2ALM",
+        "description" : "Process Mining, Process Simulation, Digital Twin, Robotic Process Automation, VR/AR",
+        "image" : "digitalprocess.jpeg"
+    }
+]

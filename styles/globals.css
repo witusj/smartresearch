@@ -90,6 +90,10 @@ a {
   margin-top: auto;
 }
 
+.btn.libguides {
+  margin-top: auto;
+}
+
 .card-footer.discovery {
   background-color: tomato;
 }
@@ -117,4 +121,8 @@ a {
 .card {
   align-items: flex-end;
   display: flex;
+}
+
+.libstitle {
+  margin-top: 5%;
 }

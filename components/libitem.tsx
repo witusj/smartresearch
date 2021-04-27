@@ -22,10 +22,9 @@ export const LibItem = (props) => {
     return (
         <Col md={4}>
             <Card className={styles.libitemcard}>
-                <Card.Img variant="top" src={props.imagesrc} />
                     <Card.Body className={styles.libitembody}>
                     <Card.Title className={styles.libitemtitle }>{ props.title }</Card.Title>
-                        <Card.Text>
+                    <Card.Text>
                         {textTruncation(props.description, 280) }
                     </Card.Text>
                     <Card.Text>

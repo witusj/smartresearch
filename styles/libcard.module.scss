@@ -1,0 +1,28 @@
+.libcardcard {
+  margin-bottom: 20px !important;
+}
+
+.libcardbody {
+  padding: 1.6rem !important;
+  display: flex;
+  flex-direction: column;
+}
+
+.libcardtitle {
+  margin-top: 1.4rem !important;
+  margin-bottom: 1.4rem !important;
+}
+
+button.btn {
+  margin-top: auto;
+}
+
+.col-md-4 {
+  flex: 0 0 33.3333333% !important;
+  max-width: 33.3333333% !important;
+  position: relative !important;
+  width: 100% !important;
+  padding-right: 15px !important;
+  padding-left: 15px !important;
+  display: flex !important;
+}

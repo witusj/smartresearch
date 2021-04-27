@@ -6,11 +6,12 @@ import styles from '../styles/libs.module.scss'
 const Libs = ({ items, title }) => {
    
     const libitems = items.map(item => {
-        return ( item.data.itemType != 'note' &&
+        const itemTypes = ["blogPost", "book", "bookSection", "journalArticle", "videoRecording", "webpage"]
+        return (itemTypes.includes(item.data.itemType, 0) && item.data.url!== '' &&
             <LibItem
                 title={item.data.title}
                 description={item.data.abstractNote}
-                date={item.data.date}
+                date={item.data.dateAdded}
                 url={item.data.url}
                 itemtype = {item.data.itemType}
             />

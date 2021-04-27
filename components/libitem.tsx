@@ -11,16 +11,11 @@ export const LibItem = (props) => {
     }
 
     const textTruncation = (text, num) => {
-        const setText = text + ' '
+        const setText = text + ''
         const truncText = setText.length <= num ? text : text.slice(0, num) + '....'
         
 
         return truncText
-    }
-
-    const dateConverter = (date) => {
-        let dateObject = new Date(date)
-        return date ? dateObject.getFullYear(): "niet bekend"
     }
 
     return (
@@ -31,9 +26,9 @@ export const LibItem = (props) => {
                     <Card.Text>
                         {textTruncation(props.description, 280) }
                     </Card.Text>
-                    <Card.Text>
-                        <small className="text-muted">
-                            Jaar: { dateConverter(props.date) }
+                    <Card.Text className="libssmalltext">
+                        <small className="text-muted ">
+                            Toegevoegd op: { props.date }
                         </small>
                     </Card.Text>
                     <Button className="libs text-capitalize" href={props.url} target="_blank">Naar { splitWord(props.itemtype) }</Button>

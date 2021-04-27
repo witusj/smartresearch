@@ -1,18 +1,26 @@
 import { useRouter } from 'next/router'
-import styles from '../styles/toolbar.module.scss'
+import { Nav, Navbar } from 'react-bootstrap'
 
 export const Toolbar = () => {
     const router = useRouter()
 
     return (
-        <div>
-            <img className="img-fluid" src="logo.png"></img>
-            <div className={styles.main}>
-                <div className="lead" onClick={() => router.push('/')}>Start</div>
-                <div className="lead" onClick={() => router.push('/inspiration')}>Inspiratie</div>
-                <div className="lead" onClick={() => router.push('/libguides')}>Libguides</div>
-                <div className="lead" onClick={() => window.open('https://www.linkedin.com/in/witektenhove/', '_blank')}>Linkedin</div>
+        <div className="mb-5">
+            <img className="img-fluid mb-5" src="logo.png"></img>
+            <Navbar className="justify-content-center" bg="light" expand="lg">
+            <div class="mx-auto d-sm-flex d-block flex-sm-nowrap">
+            <Navbar.Toggle aria-controls="basic-navbar-nav" />
+            <Navbar.Collapse id="basic-navbar-nav">
+                <Nav className="mr-auto">
+                <Nav.Link className="lead" onClick={() => router.push('/')}>Start</Nav.Link>
+                <Nav.Link className="lead" onClick={() => router.push('/inspiration')}>Inspiratie</Nav.Link>
+                <Nav.Link className="lead" onClick={() => router.push('/libguides')}>Libguides</Nav.Link>
+                <Nav.Link className="lead" onClick={() => window.open('https://www.linkedin.com/in/witektenhove/', '_blank')}>Linkedin</Nav.Link>
+                </Nav>
+                    </Navbar.Collapse>
+                    </div>
+            </Navbar>
+                
             </div>
-        </div>
     )
 }

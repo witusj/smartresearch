@@ -418,5 +418,12 @@
         "desc": "Root Cause Analysis gets better results with the right tools. Try some of these ideas and see if they help make your process more effective!",
         "src" :"https://www.youtube.com/embed/QErsdzWQGmc",
         "phase": "analysis"
+    },
+    {
+        "id":61,
+        "name": "Spice up Your UX Research - Creativity Methods" ,
+        "desc": "Often we get stuck using the same research methods over and over again, and that is all well and good, but when you use different methods you can find different quality of results. The method you choose dictates the data that you get!",
+        "src" :"https://www.youtube.com/embed/kFOpqP93qR8",
+        "phase": "analysis"
     }
 ]

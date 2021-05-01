@@ -12,9 +12,9 @@ export const Toolbar = () => {
                 <Navbar.Toggle aria-controls="basic-navbar-nav" />
                 <Navbar.Collapse id="basic-navbar-nav">
                     <Nav className="mr-auto">
-                    <Nav.Link className="lead pr-5" onClick={() => router.push('/')}>Start</Nav.Link>
-                    <Nav.Link className="lead pr-5" onClick={() => router.push('/inspiration')}>Inspiratie</Nav.Link>
-                    <Nav.Link className="lead pr-5" onClick={() => router.push('/libguides')}>Libguides</Nav.Link>
+                    <Nav.Link className={router.pathname === '/' ? "lead pr-5 active" : "lead pr-5"} onClick={() => router.push('/')}>Start</Nav.Link>
+                    <Nav.Link className={router.pathname === '/inspiration' ? "lead pr-5 active" : "lead pr-5"} onClick={() => router.push('/inspiration')}>Inspiratie</Nav.Link>
+                    <Nav.Link className={router.pathname === '/libguides' ? "lead pr-5 active" : "lead pr-5"} onClick={() => router.push('/libguides')}>Libguides</Nav.Link>
                     <Nav.Link className="lead" onClick={() => window.open('https://www.linkedin.com/in/witektenhove/', '_blank')}>Linkedin</Nav.Link>
                     </Nav>
                         </Navbar.Collapse>

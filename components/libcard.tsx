@@ -1,9 +1,6 @@
 import { Button, Card, Col } from 'react-bootstrap'
 import styles from '../styles/libcard.module.scss'
 import * as gtag from '../lib/gtag.js'
-import { propTypes } from 'react-bootstrap/esm/Image'
-
-
 
 export const LibCard = (props) => {
     const toLibguide = ()=>  {

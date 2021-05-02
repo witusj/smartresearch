@@ -1,4 +1,4 @@
-import { Row, Col, Card, Button, ButtonGroup } from 'react-bootstrap'
+import { Row, Col, Card, ButtonGroup } from 'react-bootstrap'
 import { useState } from 'react'
 import data from '../pages/api/video.json'
 import styles from '../styles/inspirationcards.module.scss'

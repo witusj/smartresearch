@@ -1,3 +1,4 @@
+import Link from 'next/link'
 import { useRouter } from 'next/router'
 import { Nav, Navbar } from 'react-bootstrap'
 
@@ -6,7 +7,10 @@ export const Toolbar = () => {
 
     return (
         <div className="mb-5">
-            <img className="img-fluid mb-5" src="logo.png"></img>
+            <a href="https://www.businessdatasolutions.nl/" target="_blank">
+                <img className="img-fluid mb-5" src="logo.png"></img>
+            </a>
+            
             <Navbar expand="lg">
                 <div className="mx-auto d-sm-flex d-block flex-sm-nowrap">
                 <Navbar.Toggle aria-controls="basic-navbar-nav" />

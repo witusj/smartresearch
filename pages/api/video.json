@@ -425,5 +425,40 @@
         "desc": "Often we get stuck using the same research methods over and over again, and that is all well and good, but when you use different methods you can find different quality of results. The method you choose dictates the data that you get!",
         "src" :"https://www.youtube.com/embed/kFOpqP93qR8",
         "phase": "analysis"
+    },
+    {
+        "id":62,
+        "name": "How to Write a Research Methodology in 4 Steps" ,
+        "desc": "Learn how to write a strong methodology chapter that allows readers to evaluate the reliability and validity of the research. A good methodology chapter includes the type of research you did, how you collected and analyzed your data, any tools or materials you used in the research, and your rationale for choosing these methods.",
+        "src" :"https://www.youtube.com/embed/yplWZs3dqNQ",
+        "phase": "writing"
+    },
+    {
+        "id":63,
+        "name": "Critical Reading & Writing Technique From Harvard University" ,
+        "desc": "Since 2018, I have been developing a research thesis report writing course. I've taken all the feedback and questions from my videos over the last few years and complied the ULTIMATE guide for writing your thesis. Everything from creating a blank thesis template on Word, devising the research question, searching for papers and writing each chapter is included. For each chapter, I have provided a list of words and phrases that can be used as sentence starters, to guide you smoothly through the writing process. I know how daunting it can be, especially seeing that blank page and with no clue how to begin.",
+        "src" :"https://www.youtube.com/embed/BcV64lowMIA",
+        "phase": "discovery"
+    },
+    {
+        "id":64,
+        "name": "Explaining your research in one minute" ,
+        "desc": "How do you explain science and scientific research to people with a non-scientific background? Anders Sahlman, science communicator and presentation coach gives you his best advice.",
+        "src" :"https://www.youtube.com/embed/G6BVhuBvzQY",
+        "phase": "publication"
+    },
+    {
+        "id":65,
+        "name": "Case Study Research" ,
+        "desc": "Case study research is an investigation and analysis of a single or collective case, intended to capture the complexity of the object of study. A case study is a detailed study of a specific subject, such as a person, group, place, event, organization, or phenomenon. Case studies are commonly used in social, architectural, educational, clinical, and business research.",
+        "src" :"https://www.youtube.com/embed/l6sYXbTdI7w",
+        "phase": "analysis"
+    },
+    {
+        "id":66,
+        "name": "Digital Diaries as Social Research Method" ,
+        "desc": "This short webinar is presented by Dr Marianne Clark, from the Vitalities Lab at UNSW Sydney. It explains the theory and approach she used in a project involving asking participants to make digital diaries.",
+        "src" :"https://www.youtube.com/embed/xRuxXp-ud54",
+        "phase": "analysis"
     }
 ]

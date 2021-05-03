@@ -488,5 +488,12 @@
         "desc": "Graph databases are an excellent choice for storing and querying your connected data. They allow you to store information in a logical and complementary way that’s reflective of the domain you’re working in. However, when faced with the questions you’re looking to answer, it may not be immediately obvious that what you’re looking at is a graph question.",
         "src" :"https://www.youtube.com/embed/keZURbOo4-M",
         "phase": "discovery"
+    },
+    {
+        "id":71,
+        "name": "Learning How to Learn" ,
+        "desc": "Dr. Oakley lets us in on the secrets to effectively learning math and science—secrets that even dedicated and successful students wish they’d known earlier. Contrary to popular belief, math requires creative, as well as analytical, thinking. Most people think that there’s only one way to do a problem, when in actuality, there are often a number of different solutions—you just need the creativity to see them.",
+        "src" :"https://www.youtube.com/embed/vd2dtkMINIw",
+        "phase": "discovery"
     }
 ]

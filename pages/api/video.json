@@ -476,10 +476,17 @@
         "phase": "analysis"
     },
     {
-        "id":68,
+        "id":69,
         "name": "Map Making as a Social Research Method" ,
         "desc": "This short webinar presented by Professor Deborah Lupton from the University of New South Wales (UNSW) Sydney provides details on how to use hand-drawn maps as a method for social research",
         "src" :"https://www.youtube.com/embed/7uHHXzLthHw",
         "phase": "analysis"
+    },
+    {
+        "id":70,
+        "name": "Identifying Graph Shaped Problems" ,
+        "desc": "Graph databases are an excellent choice for storing and querying your connected data. They allow you to store information in a logical and complementary way that’s reflective of the domain you’re working in. However, when faced with the questions you’re looking to answer, it may not be immediately obvious that what you’re looking at is a graph question.",
+        "src" :"https://www.youtube.com/embed/keZURbOo4-M",
+        "phase": "discovery"
     }
 ]

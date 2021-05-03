@@ -460,5 +460,26 @@
         "desc": "This short webinar is presented by Dr Marianne Clark, from the Vitalities Lab at UNSW Sydney. It explains the theory and approach she used in a project involving asking participants to make digital diaries.",
         "src" :"https://www.youtube.com/embed/xRuxXp-ud54",
         "phase": "analysis"
+    },
+    {
+        "id":67,
+        "name": "The Story Completion Method" ,
+        "desc": "A brief webinar introduction by Professor Deborah Lupton from the University of New South Wales (UNSW) Sydney on to how to do the story completion method for social research",
+        "src" :"https://www.youtube.com/embed/XJO6CltYb0A",
+        "phase": "analysis"
+    },
+    {
+        "id":68,
+        "name": "TikTok Methods" ,
+        "desc": "A short webinar by Dr Clare Southerton, UNSW Sydney, on methods for analysing TikTok videos",
+        "src" :"https://www.youtube.com/embed/cts7BDyoH9E",
+        "phase": "analysis"
+    },
+    {
+        "id":68,
+        "name": "Map Making as a Social Research Method" ,
+        "desc": "This short webinar presented by Professor Deborah Lupton from the University of New South Wales (UNSW) Sydney provides details on how to use hand-drawn maps as a method for social research",
+        "src" :"https://www.youtube.com/embed/7uHHXzLthHw",
+        "phase": "analysis"
     }
 ]

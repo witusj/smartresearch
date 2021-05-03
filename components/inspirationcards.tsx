@@ -21,8 +21,8 @@ export const InspirationCards = () => {
         ></iframe>
     )
     }
-
-    const newcard = data.map((item) => {
+    let sorted = data.sort((a, b) => { return b.id - a.id })
+    const newcard = sorted.map((item) => {
     
     return (    
         (selectedPhase === 'all' || selectedPhase === item.phase) &&

@@ -22,12 +22,17 @@
         "cid" : "2FBG2ALM",
         "description" : "Process Mining, Process Simulation, Digital Twin, Robotic Process Automation, VR/AR",
         "image" : "digitalprocess.jpeg"
-    }
-    ,
+    },
     {
         "title" : "Smart Research",
         "cid" : "7BIHDQTM",
         "description" : "Discovery, Analysis, Writing, Publication, Outreach, Assessment",
+        "image" : "smartresearch.jpeg"
+    },
+    {
+        "title" : "Smart Education",
+        "cid" : "X2WR5SEW",
+        "description" : "Learning Analytics, Learning Management Systems, Open Educational Resources, Triple Helix, Gamification, Student Journey",
         "image" : "smartresearch.jpeg"
     }
 ]

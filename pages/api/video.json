@@ -502,5 +502,12 @@
         "desc": "This is the ultimate Obsidian HOW TO. Learn how to supercharge your note-taking and note-making. Learn the power of the Obsidian App in this practical course from Linking Your Thinking. In this video, you'll learn exactly the simple steps on how to get started .",
         "src" :"https://www.youtube.com/embed/QgbLb6QCK88",
         "phase": "writing"
+    },
+    {
+        "id":73,
+        "name": "Great User Research for Non Researchers" ,
+        "desc": "The importance of including users in the product development process has never been more accepted than it is now. Yet the specific skills and processes required to do this crucial work well remain elusive still. In this talk, Steve explains the essentials of planning, conducting, and acting on user research, showing you how to uncover insightful information to help drive UX and product decisions.",
+        "src" :"https://www.youtube.com/embed/x-_1r5uKqlA",
+        "phase": "analysis"
     }
 ]

@@ -495,5 +495,12 @@
         "desc": "Dr. Oakley lets us in on the secrets to effectively learning math and science—secrets that even dedicated and successful students wish they’d known earlier. Contrary to popular belief, math requires creative, as well as analytical, thinking. Most people think that there’s only one way to do a problem, when in actuality, there are often a number of different solutions—you just need the creativity to see them.",
         "src" :"https://www.youtube.com/embed/vd2dtkMINIw",
         "phase": "discovery"
+    },
+    {
+        "id":72,
+        "name": "How to Use the Obsidian App for Notes" ,
+        "desc": "This is the ultimate Obsidian HOW TO. Learn how to supercharge your note-taking and note-making. Learn the power of the Obsidian App in this practical course from Linking Your Thinking. In this video, you'll learn exactly the simple steps on how to get started .",
+        "src" :"https://www.youtube.com/embed/QgbLb6QCK88",
+        "phase": "writing"
     }
 ]

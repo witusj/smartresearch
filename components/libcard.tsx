@@ -1,16 +1,8 @@
 import { Button, Card, Col } from 'react-bootstrap'
 import styles from '../styles/libcard.module.scss'
-import * as gtag from '../lib/gtag.js'
 
 export const LibCard = (props) => {
-    const toLibguide = ()=>  {
-    gtag.event ({
-        action : "choose_libguide",
-        category : `${ props.title }`,
-        label : "libguide chosen",
-        value : "done"
-    })
-    }
+
     
     return (
             <Col md={4}>
@@ -22,7 +14,7 @@ export const LibCard = (props) => {
                             <Card.Text>
                                 { props.description }
                             </Card.Text>
-                    <Button className="libguides" href={`./libs?cid=${props.cid}&title=${props.title}`} onClick={() => toLibguide()} >Naar { props.title }</Button>
+                    <Button className="libguides" href={`./libs?cid=${props.cid}&title=${props.title}`}>Naar { props.title }</Button>
                     </Card.Body>
                 </Card>
             </Col>

@@ -5,7 +5,7 @@ export const AuditCard = (props) => {
     const listItems = (itemstolist) => {
         return(
         itemstolist.map((item) =>
-            <ListGroup.Item>
+            <ListGroup.Item key={item}>
                 {item}
             </ListGroup.Item>
         )

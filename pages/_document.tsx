@@ -8,23 +8,6 @@ export default class MyDocument extends Document {
             <Html>
                 <Head>
                     {/* Global Site Tag (gtag.js) - Google Analytics */}
-                    <script
-                        async
-                        src={`https://www.googletagmanager.com/gtag/js?id=${GA_TRACKING_ID}`}
-                    />
-                    <script
-                        dangerouslySetInnerHTML={{
-                            __html: `
-                            window.dataLayer = window.dataLayer || [];
-                            function gtag(){dataLayer.push(arguments);}
-                            gtag('js', new Date());
-
-                            gtag('config', '${GA_TRACKING_ID}', {
-                            page_path: window.location.pathname,
-                            });
-                        `,
-                        }}
-                    />
                     <meta name="description" content="Tools and methods for doing Smart Research. Audit you research process, discover new research tools and methods and find interesting material in the selected libguides."></meta>
                 </Head>
                 <body>

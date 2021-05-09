@@ -509,5 +509,12 @@
         "desc": "The importance of including users in the product development process has never been more accepted than it is now. Yet the specific skills and processes required to do this crucial work well remain elusive still. In this talk, Steve explains the essentials of planning, conducting, and acting on user research, showing you how to uncover insightful information to help drive UX and product decisions.",
         "src" :"https://www.youtube.com/embed/x-_1r5uKqlA",
         "phase": "analysis"
+    },
+    {
+        "id":74,
+        "name": "What are Metadata (and why are they so important)?" ,
+        "desc": "This video tells you some of the many reasons why metadata are important.",
+        "src" :"https://www.youtube.com/embed/-4_MFhi4GpU",
+        "phase": "publication"
     }
 ]

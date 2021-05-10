@@ -516,5 +516,19 @@
         "desc": "This video tells you some of the many reasons why metadata are important.",
         "src" :"https://www.youtube.com/embed/-4_MFhi4GpU",
         "phase": "publication"
+    },
+    {
+        "id":75,
+        "name": "Essential Google search tricks for academic research" ,
+        "desc": "Essential Google search tricks for academic research (that most people don't know!)",
+        "src" :"https://www.youtube.com/embed/5WJ5QH5MrOA",
+        "phase": "discovery"
+    },
+    {
+        "id":76,
+        "name": "Creativity: Agile Tools & Processes" ,
+        "desc": "You are more creative than you think! Are you ready for an afternoon date with your creative self? At Growth Vikings we want to introduce you to a personal agile creativity toolkit designed for curious hearts like your!",
+        "src" :"https://www.youtube.com/embed/3LFQ3n-XRG0",
+        "phase": "discovery"
     }
 ]

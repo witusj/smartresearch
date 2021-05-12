@@ -530,5 +530,12 @@
         "desc": "You are more creative than you think! Are you ready for an afternoon date with your creative self? At Growth Vikings we want to introduce you to a personal agile creativity toolkit designed for curious hearts like your!",
         "src" :"https://www.youtube.com/embed/3LFQ3n-XRG0",
         "phase": "discovery"
+    },
+    {
+        "id":77,
+        "name": "Remote Retrospective" ,
+        "desc": "54 retrospectives in the last 5 months allowed me to come up with a framework and tools that can help you create engaging and unforgettable remote retrospectives! Enjoy!",
+        "src" :"https://www.youtube.com/embed/A8L--bl9Lzo",
+        "phase": "assessment"
     }
 ]

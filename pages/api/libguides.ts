@@ -1,7 +1,7 @@
 import { NextApiRequest, NextApiResponse } from 'next'
 
 export let getData = async (cid) => {
-  let url = `https://api.zotero.org/groups/2930755/collections/${cid}/items`
+  let url = `https://api.zotero.org/groups/2930755/collections/${cid}/items?limit=70`
     const response = await fetch(url)
     const json = await response.json()
   return json

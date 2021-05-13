@@ -537,5 +537,33 @@
         "desc": "54 retrospectives in the last 5 months allowed me to come up with a framework and tools that can help you create engaging and unforgettable remote retrospectives! Enjoy!",
         "src" :"https://www.youtube.com/embed/A8L--bl9Lzo",
         "phase": "assessment"
+    },
+    {
+        "id":78,
+        "name": "Deep Dive into Open Scholarship: Collaboration and Replication" ,
+        "desc": "This deep dive session on replications and large-scale collaborations introduces a glossary of relevant terms, the problems these initiatives address, and some tools to get started. Panelists start with content knowledge transfer but switch to more interactive conversation for Q&A and conversation.",
+        "src" :"https://www.youtube.com/embed/7pVG-G2fxNM",
+        "phase": "outreach"
+    },
+    {
+        "id":79,
+        "name": "OSF101" ,
+        "desc": "OSF is a free, open source web application built by the Center for Open Science, a non-profit dedicated to improving the alignment between scientific values and scientific practices. OSF is part collaboration tool, part version control software, and part data archive. It is designed to connect to popular tools researchers already use, like Dropbox, Box, Github, and Mendeley, to streamline workflows and increase efficiency.",
+        "src" :"https://www.youtube.com/embed/7pVG-G2fxNM",
+        "phase": "outreach"
+    },
+    {
+        "id":80,
+        "name": "Why we need the Open Science Framework" ,
+        "desc": "Introduction to OSF.",
+        "src" :"https://www.youtube.com/embed/IUAhpL4Vl6U",
+        "phase": "outreach"
+    },
+    {
+        "id":80,
+        "name": "Leveraging Open Ecosystems to Enhance Reproducible Workflows" ,
+        "desc": "Hear from a panel of research groups that have taken advantage of interoperable infrastructure to leverage more robust workflows to support rigorous, reproducible research. We also discuss the steps stakeholders and institutions can take to integrate OSF’s open API with existing services to establish streamlined researcher workflows.",
+        "src" :"https://www.youtube.com/embed/z9QpLYMM1aQ",
+        "phase": "outreach"
     }
 ]

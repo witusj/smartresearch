@@ -560,7 +560,7 @@
         "phase": "outreach"
     },
     {
-        "id":80,
+        "id":81,
         "name": "Leveraging Open Ecosystems to Enhance Reproducible Workflows" ,
         "desc": "Hear from a panel of research groups that have taken advantage of interoperable infrastructure to leverage more robust workflows to support rigorous, reproducible research. We also discuss the steps stakeholders and institutions can take to integrate OSF’s open API with existing services to establish streamlined researcher workflows.",
         "src" :"https://www.youtube.com/embed/z9QpLYMM1aQ",

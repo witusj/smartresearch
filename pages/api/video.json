@@ -565,5 +565,12 @@
         "desc": "Hear from a panel of research groups that have taken advantage of interoperable infrastructure to leverage more robust workflows to support rigorous, reproducible research. We also discuss the steps stakeholders and institutions can take to integrate OSF’s open API with existing services to establish streamlined researcher workflows.",
         "src" :"https://www.youtube.com/embed/z9QpLYMM1aQ",
         "phase": "outreach"
+    },
+    {
+        "id":82,
+        "name": "Airtable Demo" ,
+        "desc": "This video presents an overview of a popular project management solution, Airtable.",
+        "src" :"https://www.youtube.com/embed/p1-0QVWa5ZU",
+        "phase": "writing"
     }
 ]

@@ -572,5 +572,26 @@
         "desc": "This video presents an overview of a popular project management solution, Airtable.",
         "src" :"https://www.youtube.com/embed/p1-0QVWa5ZU",
         "phase": "writing"
+    },
+    {
+        "id":83,
+        "name": "An introduction to processing personal data for research purposes" ,
+        "desc": "This webinar will cover data life-cycle management and what to consider before data collection, storage, sharing and archiving. The aim is to enable researchers and others working with personal data to make the most out of collected data, whilst also meeting requirements in data protection legislation and respecting the rights of data subjects.",
+        "src" :"https://www.youtube.com/embed/B-amFT6DZuU",
+        "phase": "analysis"
+    },
+    {
+        "id":84,
+        "name": "Make great video presentations with mmhmm" ,
+        "desc": "Mmhmm helps you perform, present, and entertain on video. Works with Zoom, Google Meet, and many other video products. Try it for yourself at mmhmm.app.",
+        "src" :"https://www.youtube.com/embed/c8KhKBLoSMk",
+        "phase": "publication"
+    },
+    {
+        "id":85,
+        "name": "Design Science Research" ,
+        "desc": "This is a short summary of the main points of Lecture 8 of the Research Methodology and Thesis Design course 2020/2021.",
+        "src" :"https://www.youtube.com/embed/pCNNkQ5WeP0",
+        "phase": "analysis"
     }
 ]

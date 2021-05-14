@@ -593,5 +593,12 @@
         "desc": "This is a short summary of the main points of Lecture 8 of the Research Methodology and Thesis Design course 2020/2021.",
         "src" :"https://www.youtube.com/embed/pCNNkQ5WeP0",
         "phase": "analysis"
+    },
+    {
+        "id":86,
+        "name": "YouTube as Qualitative Data" ,
+        "desc": "In this short webinar, Dr Clare Southerton, Vitalities Lab, UNSW Sydney, describes how to analyse Youtube videos using qualitative research methods.",
+        "src" :"https://www.youtube.com/embed/EnBvky2htcE",
+        "phase": "analysis"
     }
 ]

@@ -600,5 +600,12 @@
         "desc": "In this short webinar, Dr Clare Southerton, Vitalities Lab, UNSW Sydney, describes how to analyse Youtube videos using qualitative research methods.",
         "src" :"https://www.youtube.com/embed/EnBvky2htcE",
         "phase": "analysis"
+    },
+    {
+        "id":87,
+        "name": "The General Linear Model" ,
+        "desc": "This lecture is the first of a series describing the General Linear Model as SPINE of statistics. This lecture looks at what the linear model is, and how parameters are estimated.",
+        "src" :"https://www.youtube.com/embed/7cSArk7tU4w",
+        "phase": "analysis"
     }
 ]

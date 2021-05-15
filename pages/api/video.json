@@ -621,5 +621,12 @@
         "desc": "Bart De Langhe, a behavioral scientist and marketing professor at ESADE, Ramon Llull University, and Stefano Puntoni, a professor of marketing at the Rotterdam School of Management at Erasmus University and the director of the Psychology of AI lab at the Erasmus Centre for Data Analytics, explain how organizations can make better decisions with data.",
         "src" :"https://www.youtube.com/embed/zBQpvkN9qWk",
         "phase": "writing"
+    },
+    {
+        "id":90,
+        "name": "Experiment your way through change" ,
+        "desc": "Research shows that leaders who fail to involve and engage people in change cause increased uncertainty and fear. But how can leaders stop their people from feeling that things are “happening to them,” and instead feel they are a vital and valuable part of the change? Simple. Experiment your way through change!",
+        "src" :"https://www.youtube.com/embed/jPPJ-9exyvw",
+        "phase": "analysis"
     }
 ]

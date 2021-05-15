@@ -611,8 +611,15 @@
     {
         "id":88,
         "name": "Charticulator Visual IS HERE" ,
-        "desc": "We walk through a first look at the new Charticulator visual from Microsoft Power BI team.  ",
+        "desc": "We walk through a first look at the new Charticulator visual from Microsoft Power BI team.",
         "src" :"https://www.youtube.com/embed/afGc6-wFyy0",
         "phase": "analysis"
+    },
+    {
+        "id":89,
+        "name": "Understanding Decision-Driven Analytics" ,
+        "desc": "Bart De Langhe, a behavioral scientist and marketing professor at ESADE, Ramon Llull University, and Stefano Puntoni, a professor of marketing at the Rotterdam School of Management at Erasmus University and the director of the Psychology of AI lab at the Erasmus Centre for Data Analytics, explain how organizations can make better decisions with data.",
+        "src" :"https://www.youtube.com/embed/zBQpvkN9qWk",
+        "phase": "writing"
     }
 ]

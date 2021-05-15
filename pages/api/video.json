@@ -607,5 +607,12 @@
         "desc": "This lecture is the first of a series describing the General Linear Model as SPINE of statistics. This lecture looks at what the linear model is, and how parameters are estimated.",
         "src" :"https://www.youtube.com/embed/7cSArk7tU4w",
         "phase": "analysis"
+    },
+    {
+        "id":88,
+        "name": "Charticulator Visual IS HERE" ,
+        "desc": "We walk through a first look at the new Charticulator visual from Microsoft Power BI team.  ",
+        "src" :"https://www.youtube.com/embed/afGc6-wFyy0",
+        "phase": "analysis"
     }
 ]

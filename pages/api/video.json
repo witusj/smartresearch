@@ -649,5 +649,12 @@
         "desc": "Talking meetings have much merit, but can also be subject to a host of problems. The good news is that alternative approaches do exist and, depending on your task at hand, can work incredibly well. One such approach embraces silence. This technique may seem odd, but current research supports the benefits of holding a “silent meeting” as one way of better leveraging the ideas, perspectives, and insights of organizational talent.",
         "src" :"https://www.youtube.com/embed/zPVXe3Lr_sQ",
         "phase": "discovery"
+    },
+    {
+        "id":94,
+        "name": "How to Analyze Research Data" ,
+        "desc": "In this webinar, Associate Professor Kristin Sainani walks you through the steps of a complete data analysis, using real data on mental health in athletes. She provides practical, hands-on tips for how to approach each step of the analysis and how to improve rigor and reproducibility of your research.",
+        "src" :"https://www.youtube.com/embed/SpZalI7nT0Q",
+        "phase": "analysisS"
     }
 ]

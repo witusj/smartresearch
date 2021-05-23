@@ -635,5 +635,19 @@
         "desc": "A brief overview of how FlutterFlow works, and how you can use it to help build your application!",
         "src" :"https://www.youtube.com/embed/AfZmOnfRXws",
         "phase": "writing"
+    },
+    {
+        "id":92,
+        "name": "This tool will help improve your critical thinking" ,
+        "desc": "Explore the technique known as the Socratic Method, which uses questions to examine a person’s values, principles, and beliefs.",
+        "src" :"https://www.youtube.com/embed/vNDYUlxNIAA",
+        "phase": "discovery"
+    },
+    {
+        "id":93,
+        "name": "The Case for More Silent Meetings" ,
+        "desc": "Talking meetings have much merit, but can also be subject to a host of problems. The good news is that alternative approaches do exist and, depending on your task at hand, can work incredibly well. One such approach embraces silence. This technique may seem odd, but current research supports the benefits of holding a “silent meeting” as one way of better leveraging the ideas, perspectives, and insights of organizational talent.",
+        "src" :"https://www.youtube.com/embed/zPVXe3Lr_sQ",
+        "phase": "discovery"
     }
 ]

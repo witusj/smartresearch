@@ -663,5 +663,12 @@
         "desc": "Sharing personal and professional moments of where you've had success or people who have used your product or use your company have had a positive experience. When you share that, you impact people, you make it memorable and you make it personal.",
         "src" :"https://www.youtube.com/embed/HYQOW34b-0g",
         "phase": "publication"
+    },
+    {
+        "id":96,
+        "name": "What’s the Point of LinkedIn, Anyway?" ,
+        "desc": "It’s the least fun social platform, but the most important for your career. Here’s how to make LinkedIn work for you.",
+        "src" :"https://www.youtube.com/embed/CKuY8x2gcpE",
+        "phase": "publication"
     }
 ]

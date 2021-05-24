@@ -656,5 +656,12 @@
         "desc": "In this webinar, Associate Professor Kristin Sainani walks you through the steps of a complete data analysis, using real data on mental health in athletes. She provides practical, hands-on tips for how to approach each step of the analysis and how to improve rigor and reproducibility of your research.",
         "src" :"https://www.youtube.com/embed/SpZalI7nT0Q",
         "phase": "analysis"
+    },
+    {
+        "id":95,
+        "name": "Story Telling In Business" ,
+        "desc": "Sharing personal and professional moments of where you've had success or people who have used your product or use your company have had a positive experience. When you share that, you impact people, you make it memorable and you make it personal.",
+        "src" :"https://www.youtube.com/embed/HYQOW34b-0g",
+        "phase": "outreach"
     }
 ]

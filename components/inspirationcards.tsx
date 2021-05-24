@@ -14,7 +14,7 @@ export const InspirationCards = () => {
         className="card-img-top"
         width="560"
         height="315"
-        src={props.src}
+        src={props.url}
         frameBorder="0"
         allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
         allowFullScreen
@@ -30,7 +30,7 @@ export const InspirationCards = () => {
         <Col md={4}>
             <Card className={styles.inspirationcard} key={item.id}>
                 <Card.Body className={styles.inspirationbody}>
-                    <YouTube src={item.src} />
+                    <YouTube url={item.src} />
                     <Card.Title className={styles.inspirationtitle}>
                         {item.name}
                     </Card.Title>

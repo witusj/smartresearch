@@ -677,5 +677,12 @@
         "desc": "This video highlights 5 top tips to help you engage effectively with data. it works through a sample task to suggest how you might analyse, interpret and present data.",
         "src" :"https://www.youtube.com/embed/e1hqXq0JyK0",
         "phase": "publication"
+    },
+    {
+        "id":98,
+        "name": "How to Analyze Qualitative Data" ,
+        "desc": "This video shows how to analyze qualitative data with a quick introduction tutorial. Qualitative analysis is an important technique in psychology and many social sciences, although also used in business, architecture, software development and many more.",
+        "src" :"https://www.youtube.com/embed/peQBZNWM6w8",
+        "phase": "analysis"
     }
 ]

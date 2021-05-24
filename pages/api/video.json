@@ -670,5 +670,12 @@
         "desc": "It’s the least fun social platform, but the most important for your career. Here’s how to make LinkedIn work for you.",
         "src" :"https://www.youtube.com/embed/CKuY8x2gcpE",
         "phase": "publication"
+    },
+    {
+        "id":97,
+        "name": "Analysing, interpreting and presenting data" ,
+        "desc": "This video highlights 5 top tips to help you engage effectively with data. it works through a sample task to suggest how you might analyse, interpret and present data.",
+        "src" :"https://www.youtube.com/embed/e1hqXq0JyK0",
+        "phase": "publication"
     }
 ]

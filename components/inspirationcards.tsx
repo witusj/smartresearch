@@ -21,6 +21,7 @@ export const InspirationCards = () => {
         ></iframe>
     )
     }
+
     let sorted = data.sort((a, b) => { return b.id - a.id })
     const newcard = sorted.map((item) => {
     
@@ -46,7 +47,6 @@ export const InspirationCards = () => {
     
 }
 )
-
     return (
         <div className={styles.main}>
             <Row>

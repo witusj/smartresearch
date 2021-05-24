@@ -9,7 +9,6 @@ export const Inspiration = () => {
             <div className={styles.main}>
                 <InspirationCards />
             </div>
-            
         </div>
     )
 }

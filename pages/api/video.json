@@ -689,14 +689,14 @@
         "id":99,
         "name": "Problem Solving with Data Analytics" ,
         "desc": "In this episode, Innovation Editor Christine Liu sets out to learn how to ask for and get quality feedback, how to react to feedback (good or bad), and how to grow from it. She turns to Octavia Goredema, career coach and founder of Twenty Ten Agency, for answers on how to manage professional feedback.",
-        "src" :"https://www.youtube.com/embed/SsaYA6biO6Q",
-        "phase": "assessment"
+        "src" :"https://www.youtube.com/embed/wSct_cbqzpM ",
+        "phase": "analysis"
     },
     {
         "id":100,
         "name": "You Need Tough Feedback—Here’s How to Get It" ,
         "desc": "Let's talk about how to ask questions that lead to insights that can help you solve business problems. There are six basic problem types to craft effective questions that will help you collect the right data. This video is part of the Google Data Analytics Certificate which teaches learners how to prepare, process, analyze, share, and act on data.",
-        "src" :"https://www.youtube.com/embed/wSct_cbqzpM",
-        "phase": "analysis"
+        "src" :"https://www.youtube.com/embed/SsaYA6biO6Q",
+        "phase": "assessment"
     }
 ]

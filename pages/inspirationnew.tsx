@@ -1,6 +1,6 @@
 import { Inspirationcard} from '../components/inspirationcard'
 import { Toolbar } from '../components/toolbar'
-import { Col, Row, ButtonGroup } from 'react-bootstrap'
+import { Col, Row, Button, ButtonGroup } from 'react-bootstrap'
 import { useState } from 'react'
 import data from '../pages/api/video.json'
 
@@ -14,10 +14,12 @@ export function getStaticProps() {
 }
 
 export const Inspirationnew = ({ data }) => {
+    const [counter, setCounter] = useState(15)
     const phases = ['discovery', 'analysis', 'writing', 'publication', 'outreach', 'assessment', 'all']
     const [selectedPhase, setSelectedPhase] = useState('all')
     let sorted = data.sort((a, b) => { return b.id - a.id })
-    const newcard = sorted.map((item) => {
+    let selection = sorted.slice(0, counter)
+    const newcard = selection.map((item) => {
         return (
             (selectedPhase === 'all' || selectedPhase === item.phase) &&
             <Inspirationcard
@@ -41,7 +43,10 @@ export const Inspirationnew = ({ data }) => {
                             <div
                                     className={`${phase} btn text-capitalize p-3`}
                                     id={`${{phase}}`}
-                                onClick={() => setSelectedPhase(phase)}>
+                                    onClick={() => {
+                                        setSelectedPhase(phase)
+                                        setCounter(15)
+                                    }}>
                                 {phase}
                             </div>
                         )
@@ -51,6 +56,9 @@ export const Inspirationnew = ({ data }) => {
             </Row>
             <Row>
                 {newcard}
+            </Row>
+            <Row>
+                <Button onClick={() => setCounter(counter + 15)}>{counter}</Button>
             </Row>
         </div>
     )

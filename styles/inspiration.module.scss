@@ -2,7 +2,7 @@
   flex: 1;
   display: flex;
   align-items: center;
-  flex-direction: row;
+  flex-direction: column;
   justify-content: center;
   margin-top: 5%;
 
@@ -14,5 +14,9 @@
     padding-right: 15px;
     padding-left: 15px;
     display: flex;
+  }
+
+  .morebtn {
+    padding: 10px;
   }
 }

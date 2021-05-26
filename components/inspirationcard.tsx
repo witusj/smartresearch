@@ -1,6 +1,6 @@
 import { Col, Card, ButtonGroup } from 'react-bootstrap'
 import { YouTube} from './youtube'
-import styles from '../styles/inspirationcard.module.scss'
+import styles from './inspirationcard.module.scss'
 
 export const Inspirationcard = (props) => {
     return (

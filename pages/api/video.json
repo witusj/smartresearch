@@ -695,8 +695,29 @@
     {
         "id":100,
         "name": "You Need Tough Feedback—Here’s How to Get It" ,
-        "desc": "Let's talk about how to ask questions that lead to insights that can help you solve business problems. There are six basic problem types to craft effective questions that will help you collect the right data. This video is part of the Google Data Analytics Certificate which teaches learners how to prepare, process, analyze, share, and act on data.",
+        "desc": "Mariam Shaikh and Melissa Powel talk about sketching and paper prototyping. Have you ever struggled with how to get from an idea to a high fidelity prototype? Every design has to start somewhere and even at Google we often start with low fidelity prototyping options such as sketching and paper prototyping. After all, the fidelity of your prototype should match the fidelity of your idea, so stop worrying and start sketching.",
         "src" :"https://www.youtube.com/embed/SsaYA6biO6Q",
         "phase": "assessment"
+    },
+    {
+        "id":101,
+        "name": "Rapid Prototyping: Sketching" ,
+        "desc": "Let's talk about how to ask questions that lead to insights that can help you solve business problems. There are six basic problem types to craft effective questions that will help you collect the right data. This video is part of the Google Data Analytics Certificate which teaches learners how to prepare, process, analyze, share, and act on data.",
+        "src" :"https://www.youtube.com/embed/JMjozqJS44M",
+        "phase": "publication"
+    },
+    {
+        "id":102,
+        "name": "The ultimate guide to prototyping" ,
+        "desc": "Learn how to design web and mobile app prototypes, how to test them and what to look for in a prototyping tool in this complete guide.",
+        "src" :"https://www.youtube.com/embed/PJebP81wTXc",
+        "phase": "publication"
+    },
+    {
+        "id":103,
+        "name": "Quick Prototyping Workshop X Miro Startup Program" ,
+        "desc": " To learn how to build a user’s journey diagram, map assumptions, identify the prototype's requirements, define what to prototype, and ways to do so effectively. Prototyping can save precious resources, reveal assumptions, and biases you have about your ideas, uncover new insights about your users and inspire your stakeholders. ",
+        "src" :"https://www.youtube.com/embed/fWXdie_6FXE",
+        "phase": "publication"
     }
 ]

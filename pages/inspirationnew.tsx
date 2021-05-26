@@ -3,6 +3,7 @@ import { Toolbar } from '../components/toolbar'
 import { Col, Row, Button, ButtonGroup } from 'react-bootstrap'
 import { useState } from 'react'
 import data from '../pages/api/video.json'
+import styles from '../styles/inspirationnew.module.scss'
 
 export function getStaticProps() {
   
@@ -14,11 +15,12 @@ export function getStaticProps() {
 }
 
 export const Inspirationnew = ({ data }) => {
+    const maxCounter = data.length
     const [counter, setCounter] = useState(15)
     const phases = ['discovery', 'analysis', 'writing', 'publication', 'outreach', 'assessment', 'all']
     const [selectedPhase, setSelectedPhase] = useState('all')
     let sorted = data.sort((a, b) => { return b.id - a.id })
-    let selection = sorted.slice(0, counter)
+    let selection = selectedPhase === 'all' ? sorted.slice(0, counter) : sorted
     const newcard = selection.map((item) => {
         return (
             (selectedPhase === 'all' || selectedPhase === item.phase) &&
@@ -54,12 +56,19 @@ export const Inspirationnew = ({ data }) => {
                     </ButtonGroup>
                 </Col>
             </Row>
-            <Row>
-                {newcard}
-            </Row>
-            <Row>
-                <Button onClick={() => setCounter(counter + 15)}>{counter}</Button>
-            </Row>
+            <div className={styles.main}>
+                <Row>
+                    {newcard}
+                </Row>
+            </div>
+            
+            {(selectedPhase === 'all' && counter <= maxCounter &&
+                <Row>
+                    <Button onClick={() => setCounter(counter + 15)}>Toon volgende</Button>
+                </Row>
+            )
+            }
+            
         </div>
     )
 }

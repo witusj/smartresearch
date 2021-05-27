@@ -716,8 +716,15 @@
     {
         "id":103,
         "name": "Quick Prototyping Workshop X Miro Startup Program" ,
-        "desc": " To learn how to build a user’s journey diagram, map assumptions, identify the prototype's requirements, define what to prototype, and ways to do so effectively. Prototyping can save precious resources, reveal assumptions, and biases you have about your ideas, uncover new insights about your users and inspire your stakeholders. ",
+        "desc": "To learn how to build a user’s journey diagram, map assumptions, identify the prototype's requirements, define what to prototype, and ways to do so effectively. Prototyping can save precious resources, reveal assumptions, and biases you have about your ideas, uncover new insights about your users and inspire your stakeholders.",
         "src" :"https://www.youtube.com/embed/fWXdie_6FXE",
         "phase": "publication"
+    },
+    {
+        "id":104,
+        "name": "Intro to UX Writing | Workshop" ,
+        "desc": "This Workshop shows you how to write clear, compelling user-facing content – because better writing leads to better experiences. Create your own content matrix while learning best practices for common UI patterns such as onboarding, notifications, labels, errors, and localization. Lessons focus on English writing, and can be applied across many contexts. Advanced topics such as testing content, conversation design, and machine learning feature writing are covered briefly.",
+        "src" :"https://www.youtube.com/embed/uIcA4_JJmns",
+        "phase": "writing"
     }
 ]

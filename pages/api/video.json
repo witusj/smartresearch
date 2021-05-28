@@ -726,5 +726,12 @@
         "desc": "This Workshop shows you how to write clear, compelling user-facing content – because better writing leads to better experiences. Create your own content matrix while learning best practices for common UI patterns such as onboarding, notifications, labels, errors, and localization. Lessons focus on English writing, and can be applied across many contexts. Advanced topics such as testing content, conversation design, and machine learning feature writing are covered briefly.",
         "src" :"https://www.youtube.com/embed/uIcA4_JJmns",
         "phase": "writing"
+    },
+    {
+        "id":105,
+        "name": "The Beautiful Science of Data Visualization" ,
+        "desc": "Explore the scientific underpinnings of what enables people to understand data quickly and effectively. In this latest Data Science Central webinar, take a deep dive into how the neuroscience of the human visual system works and learn methods for effectively telling compelling data stories.",
+        "src" :"https://player.vimeo.com/video/522069202",
+        "phase": "analysis"
     }
 ]

@@ -733,5 +733,12 @@
         "desc": "Explore the scientific underpinnings of what enables people to understand data quickly and effectively. In this latest Data Science Central webinar, take a deep dive into how the neuroscience of the human visual system works and learn methods for effectively telling compelling data stories.",
         "src" :"https://player.vimeo.com/video/522069202",
         "phase": "analysis"
+    },
+    {
+        "id":106,
+        "name": "Short Metabase Demo" ,
+        "desc": "A quick demo of the main features of the open source Metabase data analytics platform.",
+        "src" :"https://www.youtube.com/embed/cNqeo3Ot2JA",
+        "phase": "analysis"
     }
 ]

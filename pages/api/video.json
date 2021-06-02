@@ -747,5 +747,12 @@
         "desc": "Storytelling, content strategy, writing-focused design. These labels have been used to help define UX writing. But what, exactly, is it? And why should you care? Find out how words can make or break your product experience. Through case studies on Google products, learn about the UX writing principles that guide effective design decisions across a wide range of product areas, including artificial intelligence & conversation design, social media, messaging, e-commerce, virtual/augmented reality, and education.",
         "src" :"https://www.youtube.com/embed/TO3t5XYhWuA",
         "phase": "writing"
+    },
+    {
+        "id":108,
+        "name": "Principal Component Analysis (PCA), Step-by-Step" ,
+        "desc": "Principal Component Analysis, is one of the most useful data analysis and machine learning methods out there. It can be used to identify patterns in highly complex datasets and it can tell you what variables in your data are the most important. Lastly, it can tell you how accurate your new understanding of the data actually is.",
+        "src" :"https://www.youtube.com/embed/FgakZw6K1QQ",
+        "phase": "analysis"
     }
 ]

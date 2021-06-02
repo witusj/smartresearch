@@ -35,5 +35,5 @@ yarn-error.log*
 .vercel
 
 # files
-/pages/presentation.tsx
+/pages/presentations/riskmanagement.tsx
 /styles/presentation.module.scss

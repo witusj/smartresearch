@@ -740,5 +740,12 @@
         "desc": "A quick demo of the main features of the open source Metabase data analytics platform.",
         "src" :"https://www.youtube.com/embed/cNqeo3Ot2JA",
         "phase": "analysis"
+    },
+    {
+        "id":107,
+        "name": "UX writing: Designing better product experiences" ,
+        "desc": "Storytelling, content strategy, writing-focused design. These labels have been used to help define UX writing. But what, exactly, is it? And why should you care? Find out how words can make or break your product experience. Through case studies on Google products, learn about the UX writing principles that guide effective design decisions across a wide range of product areas, including artificial intelligence & conversation design, social media, messaging, e-commerce, virtual/augmented reality, and education.",
+        "src" :"https://www.youtube.com/embed/TO3t5XYhWuA",
+        "phase": "writing"
     }
 ]

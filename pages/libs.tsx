@@ -9,6 +9,7 @@ const Libs = ({ items, title }) => {
         const itemTypes = ["blogPost", "book", "bookSection", "journalArticle", "videoRecording", "webpage", "magazineArticle"]
         return (itemTypes.includes(item.data.itemType, 0) && item.data.url!== '' &&
             <LibItem
+                key={item.data.key}
                 title={item.data.title}
                 description={item.data.abstractNote}
                 date={item.data.dateAdded}
@@ -35,7 +36,7 @@ const Libs = ({ items, title }) => {
 
 export const getServerSideProps = async ({query}) => {
     const title = query.title
-    const response = await fetch(`https://api.zotero.org/groups/2930755/collections/${query.cid}/items?limit=80`)
+    const response = await fetch(`https://api.zotero.org/groups/2930755/collections/${query.cid}/items?limit=25`)
     const items = await response.json()
     return {
         props: {

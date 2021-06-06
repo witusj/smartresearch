@@ -42,8 +42,9 @@ export const InspirationCards = () => {
                         {phases.map(
                         (phase) => (
                             <div
+                                    key={phase}
                                     className={`${phase} btn text-capitalize p-3`}
-                                    id={`${{phase}}`}
+                                    id={phase}
                                 onClick={() => setSelectedPhase(phase)}>
                                 {phase}
                             </div>

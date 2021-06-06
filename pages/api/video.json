@@ -754,5 +754,12 @@
         "desc": "Principal Component Analysis, is one of the most useful data analysis and machine learning methods out there. It can be used to identify patterns in highly complex datasets and it can tell you what variables in your data are the most important. Lastly, it can tell you how accurate your new understanding of the data actually is.",
         "src" :"https://www.youtube.com/embed/FgakZw6K1QQ",
         "phase": "analysis"
+    },
+    {
+        "id":109,
+        "name": "Kickstart Your Research Process" ,
+        "desc": "This playlist will provide you clear steps of the research process, covering broad concepts from explaining different types of research, to pinpointing how to write topic sentences. ",
+        "src" :"https://www.youtube.com/embed/videoseries?list=PLjBMY3HggCpAjmtPByI_MkFI6lrguHatL",
+        "phase": "discovery"
     }
 ]

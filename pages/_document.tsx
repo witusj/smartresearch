@@ -12,7 +12,7 @@ export default class MyDocument extends Document {
                     <meta property='og:description' content="Tools and methods for doing Smart Research. Audit you research process, discover new research tools and methods and find interesting material in the selected libguides."/>
                     <meta property="og:type" content="website" />
                     <meta property="og:image" content="smartresearch.jpeg" />
-                    <meta property="og:url" content="https://smartresearch.vercel.app" />
+                    <meta property="og:url" content="https://smartresearch.businessdatasolutions.nl" />
                 </Head>
                 <body>
                     <Main />

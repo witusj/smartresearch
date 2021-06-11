@@ -782,5 +782,12 @@
         "desc": "Workflow Management Software is important for keeping businesses organized and efficient, but proprietary tools can get expensive.  Consider some of these open source tools for your business.",
         "src" :"https://www.youtube.com/embed/Ks8dv37YU8A",
         "phase": "analysis"
+    },
+    {
+        "id":113,
+        "name": "Ontwikkel je personal brand" ,
+        "desc": "Tijdens deze sessie leer je hoe het HHH-model van Google je kan helpen om jezelf online professioneel te profileren. Je krijgt een goed beeld van de verschillende soorten professionele profilering, en ontdekt waar voor jou kansen en opportuniteiten liggen.",
+        "src" :"https://www.youtube.com/embed/fRrV8OnNIPk",
+        "phase": "publication"
     }
 ]

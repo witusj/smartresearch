@@ -789,5 +789,20 @@
         "desc": "Tijdens deze sessie leer je hoe het HHH-model van Google je kan helpen om jezelf online professioneel te profileren. Je krijgt een goed beeld van de verschillende soorten professionele profilering, en ontdekt waar voor jou kansen en opportuniteiten liggen.",
         "src" :"https://www.youtube.com/embed/fRrV8OnNIPk",
         "phase": "publication"
+    },
+    {
+        "id":114,
+        "name": "Creative data collection tools" ,
+        "desc": "A run through of various different creative data collection tools as well as Emma and Sam from SELFA, a children's charity in Skipton, presenting how they collect data to monitor, evaluate and present the organisation's activities.",
+        "src" :"https://www.youtube.com/embed/6wKcaX_Ih8c",
+        "phase": "analysis"
+    },
+    {
+        "id":115,
+        "name": "Designing the Conceptual Framework" ,
+        "desc": "In research writing, the conceptual framework gives readers a glimpse of what the research is aiming to achieve; a well designed conceptual framework includes the variables in the study, as well as a depiction of their relationships and connections in accordance to the research.",
+        "src" :"https://www.youtube.com/embed/vq0KgB_f3K4",
+        "phase": "discovery"
     }
+
 ]

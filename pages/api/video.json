@@ -46,7 +46,7 @@
         "name": "The Turing Way: A how to guide for reproducible research" ,
         "desc": "Kirstie Whitaker will present The Turing Way: a lightly opinionated guide to reproducible data science. Openly developed and community-led, this online book curates resources, case studies and checklists to make reproducible research 'Too easy not to do'.",
         "src" :"https://www.youtube.com/embed/IG3PcZ6EhiU",
-        "phase": "assessment"
+        "phase": "outreach"
     },
     {
         "id":8,
@@ -810,6 +810,19 @@
         "desc": "In this Video, Richard Rogers talks about several techniques to study social media platforms. These techniques, broadly known as digital methods, are tool based but also research question-based. This video gives insight into the kinds of research questions typically posed in digital methods, techniques used, outcomes, and how productive these methods can be.",
         "src" :"https://www.youtube.com/embed/VvqEn1_hzC8",
         "phase": "analysis"
+    },
+    {
+        "id":117,
+        "name": "How To Choose A Research Topic" ,
+        "desc": "Learn how to choose a dissertation topic for your dissertation or thesis using the tried and trusted 7-step method by Grad Coach. In this video, we explain exactly how to find high-quality research topics, how to evaluate potential research topics and how to choose a winner.",
+        "src" :"https://www.youtube.com/embed/hXvoKE6_wQo",
+        "phase": "discovery"
+    },
+    {
+        "id":118,
+        "name": "Reproducible Social Research" ,
+        "desc": "The focus of this video is social science research that employs statistical techniques to analyse observational data (e.g. social surveys). Many of the issues associated with undertaking transparent and reproducible data analysis pervade other forms of social science research (e.g. qualitative data analysis), despite the different nature of the data and the analytical techniques that are used.",
+        "src" :"https://www.youtube.com/embed/kT3SjQ2cCzw",
+        "phase": "outreach"
     }
-
 ]

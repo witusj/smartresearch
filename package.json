@@ -10,7 +10,7 @@
   "dependencies": {
     "@zeit/next-css": "^1.0.1",
     "bootstrap": "^4.6.0",
-    "next": "^10.2.2",
+    "next": "^11.1.0",
     "react": "17.0.1",
     "react-bootstrap": "^1.5.2",
     "react-dom": "17.0.1",
@@ -22,5 +22,17 @@
     "@types/react": "^17.0.3",
     "sass": "^1.32.8",
     "typescript": "^4.2.3"
-  }
+  },
+  "description": "Als hogeschooldocent zie ik veel studenten worstelen met hun onderzoek. De kern begrijpen ze meestal wel. Ze begrijpen dat je een probleem moet vertalen naar een onderzoeksvraag en die weer uitwerkt naar een onderzoeksmethode. Dat is een gedeelte van de 'wat'-vraag. Voor een beginnende student is dit voldoende. Echter terwijl ze vorderen in hun studieloopbaan, wordt er verwacht dat ze kunnen beslissen over de vorm van het onderzoeksproduct, de waarde ervan kunnen verwoorden en een retrospectie kunnen uitvoeren. Ik zie vaak dat studenten hier te weinig over nadenken.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/witusj/smartresearch.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/witusj/smartresearch/issues"
+  },
+  "homepage": "https://github.com/witusj/smartresearch#readme"
 }

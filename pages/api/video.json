@@ -803,6 +803,13 @@
         "desc": "In research writing, the conceptual framework gives readers a glimpse of what the research is aiming to achieve; a well designed conceptual framework includes the variables in the study, as well as a depiction of their relationships and connections in accordance to the research.",
         "src" :"https://www.youtube.com/embed/vq0KgB_f3K4",
         "phase": "discovery"
+    },
+    {
+        "id":116,
+        "name": "Social Media Research with Digital Methods" ,
+        "desc": "In this Video, Richard Rogers talks about several techniques to study social media platforms. These techniques, broadly known as digital methods, are tool based but also research question-based. This video gives insight into the kinds of research questions typically posed in digital methods, techniques used, outcomes, and how productive these methods can be.",
+        "src" :"https://www.youtube.com/embed/VvqEn1_hzC8",
+        "phase": "analysis"
     }
 
 ]

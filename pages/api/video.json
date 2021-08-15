@@ -824,5 +824,19 @@
         "desc": "The focus of this video is social science research that employs statistical techniques to analyse observational data (e.g. social surveys). Many of the issues associated with undertaking transparent and reproducible data analysis pervade other forms of social science research (e.g. qualitative data analysis), despite the different nature of the data and the analytical techniques that are used.",
         "src" :"https://www.youtube.com/embed/kT3SjQ2cCzw",
         "phase": "outreach"
+    },
+    {
+        "id":119,
+        "name": "Zotero workshop" ,
+        "desc": "Zotero workshop led by James R. Jacobs, Stanford Libraries US Government Information Librarian",
+        "src" :"https://www.youtube.com/embed/GIAvSDYY574",
+        "phase": "writing"
+    },
+    {
+        "id":120,
+        "name": "Conducting UX Research and Testing Prototypes" ,
+        "desc": "Learn how to conduct research with a usability study to test your prototype. Once you have your research findings, use the insights to iterate on and improve your prototype, as well as share and promote your research insights.",
+        "src" :"https://www.youtube.com/embed/PZ2hchA4Jvg",
+        "phase": "writing"
     }
 ]

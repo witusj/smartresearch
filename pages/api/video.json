@@ -838,5 +838,26 @@
         "desc": "Learn how to conduct research with a usability study to test your prototype. Once you have your research findings, use the insights to iterate on and improve your prototype, as well as share and promote your research insights.",
         "src" :"https://www.youtube.com/embed/PZ2hchA4Jvg",
         "phase": "analysis"
+    },
+    {
+        "id":121,
+        "name": "Decision Making at Scale With Wicked Problem Solving" ,
+        "desc": "The problem with navigating a crisis is that most of us don’t face them often, so when one starts, we don’t know how to begin tackling it. In this session Tom Wujec walks attendees through the crisis curve; a template to help teams tackle any crisis. By following his template, attendees will be able to stabilize and fix a crisis, and ultimately move beyond it stronger than ever before.",
+        "src" :"https://www.youtube.com/embed/rzswrBxoE24",
+        "phase": "discovery"
+    },
+    {
+        "id":122,
+        "name": "Running Interactive Workshops and Meetings" ,
+        "desc": "We’ve all experienced “Zoom fatigue,” or the phenomenon of getting burned out by too many virtual meetings. The solution is interactivity, and Miro gives a plethora of options for baking interactivity into meetings and workshops. In this session, Miro’s Matt Mulholland and Lindsey Meredith share easy strategies for driving team engagement by turning any meeting into an interactive workshop using the tools and templates available to all Miro users.",
+        "src" :"https://www.youtube.com/embed/exiRAM5pDxU",
+        "phase": "discovery"
+    },
+    {
+        "id":123,
+        "name": "Intro to Spreadsheets, Databases, and Query Languages" ,
+        "desc": "How do data analysts bring data to life? Well, it starts with the right data analysis tools. These include spreadsheets, databases, query languages, and visualization software. Don’t worry if you are new to these tools, we'll cover them in this video. At one point, every data analyst has been right where you are right now, and they probably had a lot of the same questions. ",
+        "src" :"https://www.youtube.com/embed/dAyaThLvuug",
+        "phase": "analysis"
     }
 ]

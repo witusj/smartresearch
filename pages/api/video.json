@@ -873,5 +873,12 @@
         "desc": "Learn how to visualize and present your data findings as you complete the data analysis process. This video will show you how data visualizations, such as visual dashboards, can help bring your data to life.",
         "src" :"https://www.youtube.com/embed/jur8_iFr5_M",
         "phase": "analysis"
+    },
+    {
+        "id":126,
+        "name": "R Markdown with RStudio for Beginners" ,
+        "desc": "R Markdown is a file format for making dynamic documents with R. Learn to use a R Markdown file as a code notebook to save, organize, and report your analysis to stakeholders. ",
+        "src" :"https://www.youtube.com/embed/c7EhBASskXw",
+        "phase": "analysis"
     }
 ]

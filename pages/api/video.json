@@ -879,6 +879,6 @@
         "name": "R Markdown with RStudio for Beginners" ,
         "desc": "R Markdown is a file format for making dynamic documents with R. Learn to use a R Markdown file as a code notebook to save, organize, and report your analysis to stakeholders. ",
         "src" :"https://www.youtube.com/embed/c7EhBASskXw",
-        "phase": "analysis"
+        "phase": "writing"
     }
 ]

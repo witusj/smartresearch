@@ -63,7 +63,7 @@ export const Inspirationnew = ({ data }) => {
             
             {(selectedPhase === 'all' && counter <= maxCounter &&
                 <Row className={styles.morebtn}>
-                    <Button onClick={() => setCounter(counter + step)}>Toon volgende {Math.min(step, maxCounter - counter)}</Button>
+                    <Button onClick={() => setCounter(counter + step)}>Toon volgende {Math.min(step, maxCounter - counter)} van {maxCounter - counter}</Button>
                 </Row>
             )
             }

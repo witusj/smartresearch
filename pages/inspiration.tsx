@@ -16,7 +16,8 @@ export function getStaticProps() {
 
 export const Inspirationnew = ({ data }) => {
     const maxCounter = data.length
-    const [counter, setCounter] = useState(15)
+    const step = 15
+    const [counter, setCounter] = useState(step)
     const phases = ['discovery', 'analysis', 'writing', 'publication', 'outreach', 'assessment', 'all']
     const [selectedPhase, setSelectedPhase] = useState('all')
     let sorted = data.sort((a, b) => { return b.id - a.id })
@@ -62,7 +63,7 @@ export const Inspirationnew = ({ data }) => {
             
             {(selectedPhase === 'all' && counter <= maxCounter &&
                 <Row className={styles.morebtn}>
-                    <Button onClick={() => setCounter(counter + 15)}>Toon volgende</Button>
+                    <Button onClick={() => setCounter(counter + step)}>Toon volgende {Math.min(step, maxCounter - counter)}</Button>
                 </Row>
             )
             }

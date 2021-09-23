@@ -887,5 +887,12 @@
         "desc": "To demonstrate the power of design thinking, Perry and Jeremy work through challenges submitted by the audience in real-time. They’ll show you how you can tackle any problem you’re facing by applying techniques like framing, diverse collaborating, brainstorming, and more.",
         "src" :"https://www.youtube.com/embed/lQL8DKFdLXY",
         "phase": "analysis"
+    },
+    {
+        "id":128,
+        "name": "Rayyan Tutorial" ,
+        "desc": "Introduction to using the systematic review tool, Rayyan. This tutorial walks you through the process of exporting citations from databases, how to import them into Zotero or EndNote to remove duplicates, export citations in RIS format, and import into Rayyan.",
+        "src" :"https://www.youtube.com/embed/YFfzH4P6YKw",
+        "phase": "analysis"
     }
 ]

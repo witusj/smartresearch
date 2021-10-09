@@ -903,14 +903,14 @@
         "phase": "analysis"
     },
     {
-        "id":129,
+        "id":130,
         "name": "Zotero & Systematic Reviews" ,
         "desc": "How to upload multiple citations at one time from PubMed to Zotero for your systematic review.",
         "src" :"https://www.youtube.com/embed/GsjwUqxffsM",
         "phase": "analysis"
     },
     {
-        "id":130,
+        "id":131,
         "name": "Data visualization & crowdsourced research" ,
         "desc": "This talk reviews a project called supply-chains.us, which is building a sustainable open-source database that anyone can contribute to, with an integrated visualization that updates over time. This talk will describe how the project was built, why visual storytelling is important for research, and how open-source projects can be an opportunity for collective storytelling.",
         "src" :"https://www.youtube.com/embed/oJb1809EpB0",

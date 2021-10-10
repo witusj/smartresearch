@@ -14,6 +14,17 @@ export function getStaticProps() {
   }
 }
 
+export const Intro = (props) => {
+  return (
+    <div className="pb-5">
+      <h1>{props.heading}</h1>
+      <hr>
+      </hr>
+      <p className='lead'>{props.lead}</p>
+    </div>
+  )
+}
+
 export const Inspirationnew = ({ data }) => {
     const maxCounter = data.length
     const step = 15
@@ -39,6 +50,10 @@ export const Inspirationnew = ({ data }) => {
         <div className='page-container'>
             <Toolbar />
             <div className={styles.main}>
+                <Intro
+                    heading="Inspiratiebronnen Smart Research"
+                    lead={`Om je onderzoeksproces sneller, leuker en effectiever te maken, zijn er tal van slimme tools en tips beschikbaar. Hieronder vind je ${maxCounter} video's ter inspiratie. Iedere video is gekoppeld aan een stap in het onderzoeksproces. Met de knoppen kun je hierop filteren.`}
+                />
                 <Row>
                     <Col>
                         <ButtonGroup className="mb-5 flex-wrap">
@@ -56,10 +71,10 @@ export const Inspirationnew = ({ data }) => {
                             )}
                         </ButtonGroup>
                     </Col>
-            </Row>
-            <Row md={4}>
-                {newcard}
-            </Row>
+                </Row>    
+                <Row md={4}>
+                    {newcard}
+                </Row>
             
             {(selectedPhase === 'all' && counter <= maxCounter &&
                 <Row className={styles.morebtn}>

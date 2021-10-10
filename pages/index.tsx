@@ -4,11 +4,11 @@ import styles from '../styles/index.module.scss'
 
 const Intro = (props) => {
   return (
-    <div>
+    <div >
       <h1>{props.heading}</h1>
       <hr>
       </hr>
-      <p className='lead'>{props.lead}</p>
+      <p className='lead pb-5'>{props.lead}</p>
       <img src="workflows-traditional.png" alt="" width="1149" height="181" role="presentation" className="img-fluid" />
       <img src="workflow.png" alt="" width="1149" height="180" role="presentation" className="img-fluid" />
       <img src="workflows-innovative.png" alt="" width="1149" height="180" role="presentation" className="img-fluid" />

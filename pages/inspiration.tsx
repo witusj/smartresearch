@@ -52,7 +52,7 @@ export const Inspirationnew = ({ data }) => {
             <div className={styles.main}>
                 <Intro
                     heading="Inspiratiebronnen Smart Research"
-                    lead={`Om je onderzoeksproces sneller, leuker en effectiever te maken, zijn er tal van slimme tools en tips beschikbaar. Hieronder vind je ${maxCounter} video's ter inspiratie. Iedere video is gekoppeld aan een stap in het onderzoeksproces. Met de knoppen kun je hierop filteren.`}
+                    lead={`Om je onderzoeksproces sneller, leuker en effectiever te maken, zijn er tal van slimme tools en tips beschikbaar. Hieronder vind je ${maxCounter} video's ter inspiratie. Iedere video is gekoppeld aan een stap in het onderzoeksproces. Gebruik onderstaande knoppen om te filteren.`}
                 />
                 <Row>
                     <Col>

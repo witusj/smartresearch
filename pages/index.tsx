@@ -134,9 +134,8 @@ const Home = () => {
       <div className={styles.main}>
         <Intro
           heading="Kwaliteitsnormen Smart Research"
-          lead="Het doel van onderzoek is waardevolle informatie te genereren m.b.t. complexe vraagstukken en duurzame oplossingsrichtingen. We definiëren voor deze context onderzoek als het gehele proces van genereren, delen en verwerken van informatie. Door studenten
-            van te voren goed te laten nadenken over dit proces en te ondersteunen bij de inrichting ervan wordt gestreefd naar een adequate kwaliteit van informatie. Dit document dient ter inspiratie voor docenten die onderzoeksprocessen van studenten begeleiden
-            en beoordelen en geeft aanknopingspunten voor feedback en assessment."
+          lead="Het doel van onderzoek is waardevolle kennis te genereren m.b.t. complexe vraagstukken en duurzame oplossingsrichtingen. We definiëren voor deze context onderzoek als het gehele proces van genereren, delen en verwerken van kennis. Door studenten
+            van te voren goed te laten nadenken over dit proces en te ondersteunen bij de inrichting ervan wordt gestreefd naar een adequate kwaliteit van uitvoering en uitkomsten. De informatie op deze website dient ter inspiratie voor zowel docenten als studenten bij het ontwerp en uitvoering van onderzoek en geeft aanknopingspunten voor feedback en assessment."
         />
         <Paragraph
           heading="Onderzoeksworkflow"

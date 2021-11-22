@@ -915,5 +915,12 @@
         "desc": "This one-day workshop explores systems interactions in the real world, providing an introduction to the field of system dynamics. It also serves as a preview of the more in-depth coverage available in courses offered at MIT Sloan such as 15.871 Introduction to System Dynamics, 15.872 System Dynamics II, and 15.873 System Dynamics for Business and Policy.",
         "src" :"https://www.youtube.com/embed/o-Yp8A7BPE8",
         "phase": "analysis"
+    },
+    {
+        "id":132,
+        "name": "Introduction to Connection Circles" ,
+        "desc": "What are Connection Circles? How can these help us learn? This video explores the basics of how Connection Circles can be used to explore concepts in the classroom. To learn more, visit The Creative Learning Exchange at http://www.clexchange.org.",
+        "src" :"https://www.youtube.com/embed/hUb7SmgDE1Q",
+        "phase": "discovery"
     }
 ]

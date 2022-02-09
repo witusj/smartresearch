@@ -922,5 +922,12 @@
         "desc": "What are Connection Circles? How can these help us learn? This video explores the basics of how Connection Circles can be used to explore concepts in the classroom. To learn more, visit The Creative Learning Exchange at http://www.clexchange.org.",
         "src" :"https://www.youtube.com/embed/hUb7SmgDE1Q",
         "phase": "discovery"
+    },
+    {
+        "id":133,
+        "name": "Statistical Rethinking" ,
+        "desc": "This course teaches data analysis, but it focuses on scientific models first. The unfortunate truth about data is that nothing much can be done with it, until we say what caused it. We will prioritize conceptual, causal models and precise questions about those models. We will use Bayesian data analysis to connect scientific models to evidence. And we will learn powerful computational tools for coping with high-dimension, imperfect data of the kind that biologists and social scientists face.",
+        "src" :"https://www.youtube.com/embed/videoseries?list=PLDcUM9US4XdMROZ57-OIRtIK0aOynbgZN",
+        "phase": "analysis"
     }
 ]

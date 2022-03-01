@@ -929,5 +929,12 @@
         "desc": "This course teaches data analysis, but it focuses on scientific models first. The unfortunate truth about data is that nothing much can be done with it, until we say what caused it. We will prioritize conceptual, causal models and precise questions about those models. We will use Bayesian data analysis to connect scientific models to evidence. And we will learn powerful computational tools for coping with high-dimension, imperfect data of the kind that biologists and social scientists face.",
         "src" :"https://www.youtube.com/embed/videoseries?list=PLDcUM9US4XdMROZ57-OIRtIK0aOynbgZN",
         "phase": "analysis"
+    },
+    {
+        "id":134,
+        "name": "FUN and EFFICIENT note-taking system" ,
+        "desc": "The Zettelkasten method of note-taking and knowledge management changed my life and saved my PhD! Originally used by Niklas Luhmann, a German sociologist who wrote hundreds of articles and over 70 books in his lifetime, "zettelkasten" means "slip box" because Luhmann's system was in a literal slip box filled with note cards. I host mine, though, in a program called Obsidian .",
+        "src" :"https://www.youtube.com/embed/L9SLlxaEEXY",
+        "phase": "writing"
     }
 ]

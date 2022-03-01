@@ -933,7 +933,7 @@
     {
         "id":134,
         "name": "FUN and EFFICIENT note-taking system" ,
-        "desc": "The Zettelkasten method of note-taking and knowledge management changed my life and saved my PhD! Originally used by Niklas Luhmann, a German sociologist who wrote hundreds of articles and over 70 books in his lifetime, "zettelkasten" means "slip box" because Luhmann's system was in a literal slip box filled with note cards. I host mine, though, in a program called Obsidian .",
+        "desc": "The Zettelkasten method of note-taking and knowledge management changed my life and saved my PhD! Originally used by Niklas Luhmann, a German sociologist who wrote hundreds of articles and over 70 books in his lifetime, 'zettelkasten' means 'slip box' because Luhmann's system was in a literal slip box filled with note cards. I host mine, though, in a program called Obsidian .",
         "src" :"https://www.youtube.com/embed/L9SLlxaEEXY",
         "phase": "writing"
     }

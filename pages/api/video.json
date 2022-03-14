@@ -933,8 +933,15 @@
     {
         "id":134,
         "name": "FUN and EFFICIENT note-taking system" ,
-        "desc": "The Zettelkasten method of note-taking and knowledge management changed my life and saved my PhD! Originally used by Niklas Luhmann, a German sociologist who wrote hundreds of articles and over 70 books in his lifetime, 'zettelkasten' means 'slip box' because Luhmann's system was in a literal slip box filled with note cards. I host mine, though, in a program called Obsidian .",
+        "desc": "The Zettelkasten method of note-taking and knowledge management changed my life and saved my PhD! Originally used by Niklas Luhmann, a German sociologist who wrote hundreds of articles and over 70 books in his lifetime, 'zettelkasten' means 'slip box' because Luhmann's system was in a literal slip box filled with note cards. I host mine, though, in a program called Obsidian.",
         "src" :"https://www.youtube.com/embed/L9SLlxaEEXY",
         "phase": "writing"
+    },
+    {
+        "id":135,
+        "name": "Communicating and Working with Stakeholders" ,
+        "desc": "Stakeholders play a pivotal role in a project. They are interested in and affected by the project’s completion and success. You’ll see that each person involved has a set role and set responsibilities to help bring the project to ‘landing’ including: project sponsors, customers, team members, and of course you, the project manager. Complete a stakeholder analysis, and see how charts are used to communicate within the team. Then, learn how to use a RACI chart to create and track team member accountability.",
+        "src" :"https://www.youtube.com/embed/jz7tPVDwb50",
+        "phase": "discovery"
     }
 ]

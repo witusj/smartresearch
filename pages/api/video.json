@@ -943,5 +943,12 @@
         "desc": "Stakeholders play a pivotal role in a project. They are interested in and affected by the project’s completion and success. You’ll see that each person involved has a set role and set responsibilities to help bring the project to ‘landing’ including: project sponsors, customers, team members, and of course you, the project manager. Complete a stakeholder analysis, and see how charts are used to communicate within the team. Then, learn how to use a RACI chart to create and track team member accountability.",
         "src" :"https://www.youtube.com/embed/jz7tPVDwb50",
         "phase": "discovery"
+    },
+    {
+        "id":136,
+        "name": "R for Excel Users - First Steps" ,
+        "desc": "Excel's built-in programming language has served as an entry point to coding for many. If you’re a data analyst steeped in Excel, chances are you could also benefit from learning R for projects of increased scope and complexity.",
+        "src" :"https://www.youtube.com/embed/hyvClyUOY04",
+        "phase": "analysis"
     }
 ]

@@ -950,5 +950,12 @@
         "desc": "Excel's built-in programming language has served as an entry point to coding for many. If you’re a data analyst steeped in Excel, chances are you could also benefit from learning R for projects of increased scope and complexity.",
         "src" :"https://www.youtube.com/embed/hyvClyUOY04",
         "phase": "analysis"
+    },
+    {
+        "id":137,
+        "name": "A detailed introduction to using Helena" ,
+        "desc": "This demo gives a detailed look at how to use the Helena demonstration mode to write a web scraper.  The target dataset is some fun IMDB data about the top movies from 1977 and the actors in those movies.  If you're trying to figure out how to use the Helena tool for the first time, this is the tutorial for you!",
+        "src" :"https://www.youtube.com/embed/b82twxOKApM",
+        "phase": "analysis"
     }
 ]

@@ -957,5 +957,26 @@
         "desc": "This demo gives a detailed look at how to use the Helena demonstration mode to write a web scraper.  The target dataset is some fun IMDB data about the top movies from 1977 and the actors in those movies.  If you're trying to figure out how to use the Helena tool for the first time, this is the tutorial for you!",
         "src" :"https://www.youtube.com/embed/b82twxOKApM",
         "phase": "analysis"
+    },
+    {
+        "id":138,
+        "name": "MBA Students Tech Startups Transform Industries" ,
+        "desc": "The UCLA Anderson Easton Center for Technology Management’s Cross-Campus Innovation Challenge presents cutting-edge technology startups in health care and sustainability launched by students across the UCLA campus community. At the second annual challenge, two student-led teams were recognized for working across boundaries to arrive at transformative outcomes.",
+        "src" :"https://www.youtube.com/embed/qT1Lf6y20XY",
+        "phase": "oureach"
+    },
+    {
+        "id":139,
+        "name": "Research Made Easy: Evaluate and Rank Your Way" ,
+        "desc": "Sabine Hossenfelder discusses Scimeter, a new scientific research tool for research curation and evaluation. The number of publications is growing exponentially and so is the number of scientists. Researchers and higher education administrators need tools that help them to quickly and reliably assess publications and scientists. While there have been many bibliometric measures proposed in the literature, most of them cannot in practice be computed by those who need them. Sabine will explain how Scimeter aims to remedy this problem and how the open-access web-interface, can be useful to researchers by enabling them to do their own bibliometric analysis.",
+        "src" :"https://www.youtube.com/embed/QX0nhdHCU60",
+        "phase": "discovery"
+    },
+    {
+        "id":140,
+        "name": "The impact cycle of research projects" ,
+        "desc": "The research impact cycle: ever wondered how research impact evolves and how you can plan it? Then watch this vlog on the impact cycle tool. Have fun!",
+        "src" :"https://www.youtube.com/embed/KT4wg0vR6u8",
+        "phase": "outreach"
     }
 ]

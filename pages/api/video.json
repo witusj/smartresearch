@@ -968,7 +968,7 @@
     {
         "id":139,
         "name": "Research Made Easy: Evaluate and Rank Your Way" ,
-        "desc": "Sabine Hossenfelder discusses Scimeter, a new scientific research tool for research curation and evaluation. The number of publications is growing exponentially and so is the number of scientists. Researchers and higher education administrators need tools that help them to quickly and reliably assess publications and scientists. While there have been many bibliometric measures proposed in the literature, most of them cannot in practice be computed by those who need them. Sabine will explain how Scimeter aims to remedy this problem and how the open-access web-interface, can be useful to researchers by enabling them to do their own bibliometric analysis.",
+        "desc": "Sabine Hossenfelder discusses Scimeter, a new scientific research tool for research curation and evaluation. While there have been many bibliometric measures proposed in the literature, most of them cannot in practice be computed by those who need them. Sabine will explain how Scimeter aims to remedy this problem and how the open-access web-interface, can be useful to researchers by enabling them to do their own bibliometric analysis.",
         "src" :"https://www.youtube.com/embed/QX0nhdHCU60",
         "phase": "discovery"
     },

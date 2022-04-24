@@ -978,5 +978,19 @@
         "desc": "Get the most out of the brand canvas and gain absolute clarity and direction on how to profile yourself in today’s super crowded brand space with this simple one-page method.",
         "src" :"https://www.youtube.com/embed/tQZA6440P5Q",
         "phase": "publication"
+    },
+    {
+        "id":141,
+        "name": "R.G.P.P.E. Retrospective Framework" ,
+        "desc": "Thabet Mabrouk (PSM1, PMP, ITIL v3) shares his R.G.P.P.E Framework: a Retrospective tool, designed by a practitioner, that enables teams to solve problems and take impactful actions in less than 70 minutes.",
+        "src" :"https://www.youtube.com/embed/oPUUVyPXIHQ",
+        "phase": "assessment"
+    },
+    {
+        "id":142,
+        "name": "Mastering the Post-Presentation Q&A" ,
+        "desc": "You have finished your presentation and opened up the floor for questions. Let's go over how to prepare by anticipating what questions might be asked and the best practices for the Q&A section of your presentation. ",
+        "src" :"https://www.youtube.com/embed/Qbcw2nwypCI",
+        "phase": "publication"
     }
 ]

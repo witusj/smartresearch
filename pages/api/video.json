@@ -999,5 +999,12 @@
         "desc": "It's time to put all your data, and data visualizations into your presentation and learn the skill to present your findings like a pro.",
         "src" :"https://www.youtube.com/embed/aEnWzdMU65A",
         "phase": "publication"
+    },
+    {
+        "id":143,
+        "name": "Create a Project Communication Plan" ,
+        "desc": "here are many ways to effectively communicate during the planning phase and beyond. Here are some great communication strategies to create a successful communication plan for any project.",
+        "src" :"https://www.youtube.com/embed/W_n0GYdW7DM",
+        "phase": "discovery"
     }
 ]

@@ -992,5 +992,12 @@
         "desc": "You have finished your presentation and opened up the floor for questions. Let's go over how to prepare by anticipating what questions might be asked and the best practices for the Q&A section of your presentation. ",
         "src" :"https://www.youtube.com/embed/Qbcw2nwypCI",
         "phase": "publication"
+    },
+    {
+        "id":143,
+        "name": "Best Practices for Presenting Data" ,
+        "desc": "It's time to put all your data, and data visualizations into your presentation and learn the skill to present your findings like a pro.",
+        "src" :"https://www.youtube.com/embed/aEnWzdMU65A",
+        "phase": "publication"
     }
 ]

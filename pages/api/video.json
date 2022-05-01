@@ -1013,5 +1013,12 @@
         "desc": "It’s time to choose your data collection methods. You can choose just one data collection method, or use several methods in the same study. This video will introduce a few of the most common choices, and look at how you can use different methods.",
         "src" :"https://www.youtube.com/embed/q17s84ADGfA",
         "phase": "analysis"
+    },
+    {
+        "id":146,
+        "name": "Telling Stories with Data in 3 Steps" ,
+        "desc": "Setup, conflict, resolution. You know right away when you see an effective chart or graphic. It hits you with an immediate sense of its meaning and impact. But what actually makes it clearer, sharper, and more effective? In this video, Scott Berinato, author of “Good Charts” and “Good Charts Workbook”, walks through the three essential ingredients of any story--including those told with data. ",
+        "src" :"https://www.youtube.com/embed/r5_34YnCmMY",
+        "phase": "writing"
     }
 ]

@@ -1006,5 +1006,12 @@
         "desc": "here are many ways to effectively communicate during the planning phase and beyond. Here are some great communication strategies to create a successful communication plan for any project.",
         "src" :"https://www.youtube.com/embed/W_n0GYdW7DM",
         "phase": "discovery"
+    },
+    {
+        "id":145,
+        "name": "Choosing your Data Collection Methods" ,
+        "desc": "It’s time to choose your data collection methods. You can choose just one data collection method, or use several methods in the same study. This video will introduce a few of the most common choices, and look at how you can use different methods.",
+        "src" :"https://www.youtube.com/embed/q17s84ADGfA",
+        "phase": "analysis"
     }
 ]

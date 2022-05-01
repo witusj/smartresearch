@@ -1017,8 +1017,15 @@
     {
         "id":146,
         "name": "Telling Stories with Data in 3 Steps" ,
-        "desc": "Setup, conflict, resolution. You know right away when you see an effective chart or graphic. It hits you with an immediate sense of its meaning and impact. But what actually makes it clearer, sharper, and more effective? In this video, Scott Berinato, author of “Good Charts” and “Good Charts Workbook”, walks through the three essential ingredients of any story--including those told with data. ",
+        "desc": "Setup, conflict, resolution. You know right away when you see an effective chart or graphic. It hits you with an immediate sense of its meaning and impact. But what actually makes it clearer, sharper, and more effective? In this video, Scott Berinato, author of “Good Charts” and “Good Charts Workbook”, walks through the three essential ingredients of any story--including those told with data.",
         "src" :"https://www.youtube.com/embed/r5_34YnCmMY",
+        "phase": "writing"
+    },
+    {
+        "id":147,
+        "name": "Creating a UX Research Plan" ,
+        "desc": "Before starting any user research project, write down a research plan, preferably using a template that ensures that you don't overlook something. This keeps stakeholders informed and structures your own thinking.",
+        "src" :"https://www.youtube.com/embed/VKl8X16GoiY",
         "phase": "writing"
     }
 ]

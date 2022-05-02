@@ -1027,5 +1027,12 @@
         "desc": "Before starting any user research project, write down a research plan, preferably using a template that ensures that you don't overlook something. This keeps stakeholders informed and structures your own thinking.",
         "src" :"https://www.youtube.com/embed/VKl8X16GoiY",
         "phase": "writing"
+    },
+    {
+        "id":148,
+        "name": "Evaluating Resources" ,
+        "desc": "Let's say you have to write a research paper using at least one book and one scholarly article published within the last 5 years on the topic of – How is artificial intelligence changing education. Let's imagine you also searched MultiSearch using the keywords: artificial intelligence AND education. And you found two potentially good resources.",
+        "src" :"https://www.youtube.com/embed/Km_PUX59gVI",
+        "phase": "discovery"
     }
 ]

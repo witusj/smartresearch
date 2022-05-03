@@ -1034,5 +1034,12 @@
         "desc": "Let's say you have to write a research paper using at least one book and one scholarly article published within the last 5 years on the topic of – How is artificial intelligence changing education. Let's imagine you also searched MultiSearch using the keywords: artificial intelligence AND education. And you found two potentially good resources.",
         "src" :"https://www.youtube.com/embed/Km_PUX59gVI",
         "phase": "discovery"
+    },
+    {
+        "id":149,
+        "name": "A Total Beginners Guide to Research Rabbit" ,
+        "desc": "Discover the 4 steps to using Research Rabbit to discover relevant papers without stress in less than 10 minutes!",
+        "src" :"https://www.youtube.com/embed/7yTs-jZygE0",
+        "phase": "discovery"
     }
 ]

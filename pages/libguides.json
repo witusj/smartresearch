@@ -14,7 +14,7 @@
     {
         "title" : "Smart Innovation",
         "cid" : "UELEJHZ2",
-        "description" : "Agile, Co-creation, Open Source,DevSecOps, CI/CD, Digital Transformation, Design Thinking, Customer Journey",
+        "description" : "Agile, Co-creation, Open Source, DevSecOps, CI/CD, Digital Transformation, Design Thinking, Customer Journey",
         "image" : "openinnovation.jpeg"
     },
     {
@@ -38,7 +38,7 @@
     {
         "title" : "Quality 4.0",
         "cid" : "EAJ5IHDK",
-        "description" : "Cyber-physical systems, Predictive quality, intelligent quality, sustainability",
+        "description" : "Cyber-physical systems, Predictive quality, Intelligent quality, Sustainability",
         "image" : "quality40.jpeg"
     }
 ]

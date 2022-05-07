@@ -34,5 +34,11 @@
         "cid" : "X2WR5SEW",
         "description" : "Learning Analytics, Learning Management Systems, Open Educational Resources, Triple Helix, Gamification, Student Journey",
         "image" : "smarteducation.jpeg"
+    },
+    {
+        "title" : "Quality 4.0",
+        "cid" : "EAJ5IHDK",
+        "description" : "Cyber-physical systems, Predictive quality, intelligent quality, sustainability",
+        "image" : "quality40.jpeg"
     }
 ]

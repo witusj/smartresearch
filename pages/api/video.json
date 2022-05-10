@@ -1041,5 +1041,12 @@
         "desc": "Discover the 4 steps to using Research Rabbit to discover relevant papers without stress in less than 10 minutes!",
         "src" :"https://www.youtube.com/embed/7yTs-jZygE0",
         "phase": "discovery"
+    },
+    {
+        "id":150,
+        "name": "How to Write a Conclusion for a Dissertation" ,
+        "desc": "The conclusion is the very last part of your thesis or dissertation, it should be concise and engaging. In this video, you'll learn how to write a conclusion with 4 elements that can leave your reader with a clear understanding of your research's main discovery or argument. ",
+        "src" :"https://www.youtube.com/embed/Wz-J1iPzqTU",
+        "phase": "writing"
     }
 ]

@@ -1055,5 +1055,12 @@
         "desc": "See how small changes for team dynamics can eliminate most productivity issues and apathy. Based on her extensive experience with facilitating retrospectives, Aino will share an entertaining and informative presentation on the challenges she has seen teams experience over the years and how to overcome them. This talk will be interesting for everyone facilitating meetings in general, and retrospectives.",
         "src" :"https://www.youtube.com/embed/ApAkqxHZq6o",
         "phase": "assessment"
+    },
+    {
+        "id":152,
+        "name": "Introduction to Gingko" ,
+        "desc": "Gingko is a powerful tool for working with text, knowledge, and ideas. Whether you're working alone, or as a team, gingko is the fastest way to go from vague idea to detailed final document.",
+        "src" :"https://www.youtube.com/embed/egCKZHsICm8",
+        "phase": "writing"
     }
 ]

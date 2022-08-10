@@ -1062,5 +1062,12 @@
         "desc": "Gingko is a powerful tool for working with text, knowledge, and ideas. Whether you're working alone, or as a team, gingko is the fastest way to go from vague idea to detailed final document.",
         "src" :"https://www.youtube.com/embed/egCKZHsICm8",
         "phase": "writing"
+    },
+    {
+        "id":153,
+        "name": "How to Read & Take Notes Like a PhD Student" ,
+        "desc": "Tips for Reading Fast & Efficiently for Slow Readers.",
+        "src" :"https://www.youtube.com/embed/EOX6PAFMy3Y",
+        "phase": "discovery"
     }
 ]

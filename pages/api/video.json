@@ -1069,5 +1069,12 @@
         "desc": "Tips for Reading Fast & Efficiently for Slow Readers.",
         "src" :"https://www.youtube.com/embed/EOX6PAFMy3Y",
         "phase": "discovery"
+    },
+    {
+        "id":154,
+        "name": "Welcome to Quarto Workshop" ,
+        "desc": "Welcome to Quarto 2-hour Workshop | Led by Tom Mock, RStudio",
+        "src" :"https://www.youtube.com/embed/yvi5uXQMvu4",
+        "phase": "analysis"
     }
 ]

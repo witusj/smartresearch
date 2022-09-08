@@ -1076,5 +1076,12 @@
         "desc": "Welcome to Quarto 2-hour Workshop | Led by Tom Mock, RStudio",
         "src" :"https://www.youtube.com/embed/yvi5uXQMvu4",
         "phase": "analysis"
+    },
+    {
+        "id":155,
+        "name": "Automate your CV using Rmarkdown" ,
+        "desc": "Updating your CV can be a tedious, but very necessary task! Most often this process involves creating and updating a user-created template in e.g. a Word document and fiddling with formatting for longer than one would like to admit, especially when it is time to update the content. With R Markdown, you can quickly turn your CV into a beautiful, automated document that is easy to produce, maintain and update to suit your specific needs. With this automated approach, the only thing you really have to worry about and devote your time to is writing the content.",
+        "src" :"https://www.youtube.com/embed/Fc1RwRskk08",
+        "phase": "outreach"
     }
 ]

@@ -1083,5 +1083,12 @@
         "desc": "Updating your CV can be a tedious, but very necessary task! Most often this process involves creating and updating a user-created template in e.g. a Word document and fiddling with formatting for longer than one would like to admit, especially when it is time to update the content. With R Markdown, you can quickly turn your CV into a beautiful, automated document that is easy to produce, maintain and update to suit your specific needs.",
         "src" :"https://www.youtube.com/embed/Fc1RwRskk08",
         "phase": "outreach"
+    },
+    {
+        "id":156,
+        "name": "What’s Your Problem?" ,
+        "desc": "Have you or your colleagues ever worked hard on something only to find you were focusing on the wrong problem entirely? Most people have. Research shows that 85% companies say they often struggle to solve the right problems. The consequences are severe: leaders fight the wrong strategic battles; teams spend their energy on low-impact work; and start-ups build products and services that nobody wants. As Peter Drucker pointed out: there’s nothing more dangerous than the right answer to the wrong question.",
+        "src" :"https://www.youtube.com/embed/GK2z8mQbYvk",
+        "phase": "discovery"
     }
 ]

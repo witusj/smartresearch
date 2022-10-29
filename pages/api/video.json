@@ -1097,5 +1097,12 @@
         "desc": "To successfully sell your next idea, try using these five rhetorical devices that Aristotle identified in your next speech or presentation.",
         "src" :"https://www.youtube.com/embed/cotZdapfbIc",
         "phase": "outreach"
+    },
+    {
+        "id":158,
+        "name": "The Ultimate Guide to Stakeholder Interviews" ,
+        "desc": "IterateUX is excited to have Jennifer Fast outline best practices for stakeholder interviews.",
+        "src" :"https://www.youtube.com/embed/pzIrexRd-qs",
+        "phase": "discovery"
     }
 ]

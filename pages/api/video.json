@@ -1106,10 +1106,17 @@
         "phase": "discovery"
     },
     {
-        "id":160,
+        "id":159,
         "name": "Get the Fastest Interview Insights with Jaide" ,
-        "desc": "IterateUX is excited to have Rozemarjin Visser give insights on better user interviews",
+        "desc": "IterateUX is excited to have Rozemarjin Visser give insights on better user interviews.",
         "src" :"https://www.youtube.com/embed/Fw4nV_FUwqA",
+        "phase": "analysis"
+    },
+    {
+        "id":160,
+        "name": "Analyzing Qualitative User Data in a Spreadsheet to Show Themes" ,
+        "desc": "A simple method for visually identifying strong vs. weak themes in qualitative data from user research: by placing individual observations in a spreadsheet and color-coding them.",
+        "src" :"https://www.youtube.com/embed/LCQ0YMVu46E",
         "phase": "analysis"
     }
 ]

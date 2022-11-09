@@ -1104,5 +1104,12 @@
         "desc": "IterateUX is excited to have Jennifer Fast outline best practices for stakeholder interviews.",
         "src" :"https://www.youtube.com/embed/pzIrexRd-qs",
         "phase": "discovery"
+    },
+    {
+        "id":160,
+        "name": "Get the Fastest Interview Insights with Jaide" ,
+        "desc": "IterateUX is excited to have Rozemarjin Visser give insights on better user interviews",
+        "src" :"https://www.youtube.com/embed/Fw4nV_FUwqA",
+        "phase": "analysis"
     }
 ]

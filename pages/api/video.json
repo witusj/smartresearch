@@ -1118,5 +1118,12 @@
         "desc": "A simple method for visually identifying strong vs. weak themes in qualitative data from user research: by placing individual observations in a spreadsheet and color-coding them.",
         "src" :"https://www.youtube.com/embed/LCQ0YMVu46E",
         "phase": "analysis"
+    },
+    {
+        "id":161,
+        "name": "Easy Networking Tips for the Networking Haters" ,
+        "desc": "Networking doesn’t have to be scary or hard.",
+        "src" :"https://www.youtube.com/embed/MnrINCauK-E",
+        "phase": "outreach"
     }
 ]

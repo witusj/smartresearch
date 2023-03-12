@@ -1132,5 +1132,12 @@
         "desc": "Need to research a specific area?  Litmaps will help you do that - and it's really easy!",
         "src" :"https://www.youtube.com/embed/cdz857NqQtY",
         "phase": "discovery"
+    },
+    {
+        "id":163,
+        "name": "Hypothesis-Driven Problem Solving" ,
+        "desc": "How can an answer-first approach be leveraged to guide the focus of the case-solving and prioritize the most critical issues?",
+        "src" :"https://www.youtube.com/embed/IwcSZg9uMHc",
+        "phase": "discovery"
     }
 ]

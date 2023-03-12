@@ -1139,5 +1139,12 @@
         "desc": "How can an answer-first approach be leveraged to guide the focus of the case-solving and prioritize the most critical issues?",
         "src" :"https://www.youtube.com/embed/IwcSZg9uMHc",
         "phase": "discovery"
+    },
+    {
+        "id":164,
+        "name": "Communication and Case Tips and Tricks" ,
+        "desc": "How do we create a compelling storyline and effectively communicate the critical insights of our case-solving?",
+        "src" :"https://www.youtube.com/embed/5orN4xzy5Qg",
+        "phase": "publication"
     }
 ]

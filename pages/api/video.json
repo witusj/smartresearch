@@ -1167,5 +1167,12 @@
         "desc": "This training session will review: (a) Relationship building, empathy and the power of active listening and feedback techniques. (b) Techniques to navigate tricky situations. (c) Reflection on and development of individual mentoring and leadership conversational skills",
         "src" :"https://www.youtube.com/embed/DLnaMO73lsg",
         "phase": "outreach"
+    },
+    {
+        "id":168,
+        "name": "Introduction to Personal Branding" ,
+        "desc": "Though the concept of personal branding isn't new, questions remain about how to create one and, more importantly, what it means to maintain and inhabit that brand. Personal branding is for adults of all ages and stages of life, from college students, to mid-career workers who are changing fields, to retirees who are beginning their second acts. Join instructor Kimberley R. Barker as she creates space in which learners are encouraged to deeply explore themselves in order to create a personal brand that authentically and effectively communicates their values and professional gifts.",
+        "src" :"https://www.youtube.com/embed/eVLLu4h-hUc",
+        "phase": "outreach"
     }
 ]

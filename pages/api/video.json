@@ -1174,5 +1174,19 @@
         "desc": "Though the concept of personal branding isn't new, questions remain about how to create one and, more importantly, what it means to maintain and inhabit that brand. Join instructor Kimberley R. Barker as she creates space in which learners are encouraged to deeply explore themselves in order to create a personal brand that authentically and effectively communicates their values and professional gifts.",
         "src" :"https://www.youtube.com/embed/eVLLu4h-hUc",
         "phase": "outreach"
+    },
+    {
+        "id":169,
+        "name": "Simple ML for Sheets: ML without coding" ,
+        "desc": "Simple ML for Sheets is a Google Sheets addon that helps you use machine learning (ML). Designed for beginners, it enables you to work without coding or ML expertise. Learn how you can use Simple ML for Sheets on your own data and bring the power of ML to your business.",
+        "src" :"https://www.youtube.com/embed/GYCORMNr_IU",
+        "phase": "analysis"
+    },
+    {
+        "id":170,
+        "name": "Copilot in Power BI Demo" ,
+        "desc": "Using Copilot, you can simply describe the visuals and insights you’re looking for and Copilot will do the rest. Users can create and tailor reports in seconds, generate and edit DAX calculations, create narrative summaries, and ask questions about their data, all in conversational language. With the ability to easily tailor the tone, scope and style of narratives and add them seamlessly within reports, Power BI can also deliver data insights even more impactfully through easy-to-understand text summaries.",
+        "src" :"https://www.youtube.com/embed/wr__6tM5U6I",
+        "phase": "analysis"
     }
 ]

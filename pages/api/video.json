@@ -1195,5 +1195,12 @@
         "desc": "Words are how we persuade, communicate, and connect. They’re how leaders lead, salespeople sell, and parents parent. But certain words are more impactful than others.  They’re better at changing minds, engaging audiences, and driving action and reveal hidden information about the people that use them. What are these magic words, and how can we take advantage of their power?",
         "src" :"https://www.youtube.com/embed/MCkRsoAXXCI",
         "phase": "outreach"
+    },
+    {
+        "id":172,
+        "name": "Litmaps | AI for Researchers" ,
+        "desc": "Litmaps https://www.litmaps.com/ is an artificial intelligence (AI) tool for researchers and postgraduate students that can help you find related papers in your field and see how different papers relates to one another and who cited who via a map. You can also add new papers to collections. A good AI tool to use if you are getting used to a new field and needs to see what and who is in there.",
+        "src" :"https://www.youtube.com/embed/UOQZJg1XPRA",
+        "phase": "discovery"
     }
 ]

@@ -1135,10 +1135,10 @@
     },
     {
         "id":163,
-        "name": "Hypothesis-Driven Problem Solving" ,
-        "desc": "How can an answer-first approach be leveraged to guide the focus of the case-solving and prioritize the most critical issues?",
-        "src" :"https://www.youtube.com/embed/IwcSZg9uMHc",
-        "phase": "discovery"
+        "name": "9 UX research methods you should know" ,
+        "desc": "In this video, we’ll overview the top nine UX research methods to consider for your project—from card sorting to five-second tests. Here’s everything you need to know to ensure you’re picking the most effective method for your project.",
+        "src" :"https://www.youtube.com/embed/4ldPT4nbx5c",
+        "phase": "analysis"
     },
     {
         "id":164,
